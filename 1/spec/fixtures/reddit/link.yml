@@ -1,0 +1,945 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.reddit.com/r/subreddit/search.json?limit=10&q=poland
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json; charset=UTF-8
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      X-Xss-Protection:
+      - 1; mode=block
+      Access-Control-Allow-Origin:
+      - "*"
+      Server:
+      - "'; DROP TABLE servertypes; --"
+      Vary:
+      - accept-encoding
+      Date:
+      - Sun, 20 Apr 2014 16:18:32 GMT
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - Transfer-Encoding
+      - keep-alive
+    body:
+      encoding: ASCII-8BIT
+      string: '{"kind": "Listing", "data": {"modhash": "", "children": [{"kind": "t3",
+        "data": {"domain": "self.IAmA", "banned_by": null, "media_embed": {}, "subreddit":
+        "IAmA", "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Bio:
+        All of my life after puberty I knew I was different. My breasts were abnormally
+        asymmetrical. In high school I was flat chested on my left side and a large
+        B cup on the right side. My family and friends knew that I had this abnormality
+        but many people didn\u2019t know because of my ability to disguise it. I made
+        a few rules for myself to follow like having to wear heavily padded bras,
+        no stripes, no low cut shirts, and the worst part was swim suits. A few people
+        would recognize it and actually ask me if my boobs were uneven and I would
+        simply reply yes. I wasn\u2019t necessarily embarrassed by it but I definitely
+        wasn\u2019t going around telling people. After I graduated I wanted to undergo
+        surgery to correct this deformity before I went off to college. My mother
+        took me to a plastic surgeon who was very willing to do the surgery but my
+        mother wasn\u2019t ready to have me such a \u201cbig surgery\u201d at such
+        a young age. For 2 more years I constantly asked her to let me have the surgery
+        and she finally agreed to have another consultation this summer. I went to
+        a surgeon that she had heard highly of and he informed me that I had a rare
+        disorder called Poland syndrome. Having heard the news I wasn\u2019t sure
+        what it was or what it actually entailed. He informed me that Poland syndrome
+        is basically a disorder that can affect the pectoral muscle development and
+        often leads to breasts being underdeveloped. It can also lead to webbed fingers
+        but I\u2019m all good in that department. This occurs because while in the
+        womb there is a circulation problem with blood flow from the chest to the
+        hands and that generally leads to underdeveloped muscles or hand abnormalities.
+        It has also been proven that this happens more often in males than females
+        and also is more common on the right side of the body than the left. I however
+        am a female that was affected on the left side. Hearing this news he informed
+        me that there was a great chance my insurance would cover my surgery and that
+        he could write a letter of recommendation saying that he believes it\u2019s
+        Poland syndrome. A month later I was lucky enough to have my insurance cover
+        my surgery and I got a breast augmentation on my underdeveloped (left) breast.
+        My surgeon also lifted my right breast slightly and changed the size of my
+        areola to best match my new breast implant. He told me after the surgery that
+        my pectoral muscle was definitely underdeveloped and that he was 100% certain
+        it was Poland syndrome. It has been about 2 months after my breast augmentation
+        and my new chest is healing and looking better than I could have ever imagined.
+        I decided to do this AmA because I would have really liked knowing that I
+        wasn\u2019t alone in this condition when I was younger. I\u2019d like to inform
+        people who maybe aren\u2019t aware of this syndrome and also let people know
+        who have it that they aren\u2019t alone :)&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;My
+        Proof&lt;/strong&gt;\n&lt;a href=\"http://imgur.com/a/OKOgr\"&gt;http://imgur.com/a/OKOgr&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;EDIT:
+        Thanks so much for all the positive feedback! Feel free to continue asking
+        questions, making comments, or sharing your own personal story! I will try
+        to continue acknowledging as many people as I can! You&amp;#39;ve all been
+        very very kind to me and my situation! &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON
+        --&gt;", "selftext": "Bio: All of my life after puberty I knew I was different.
+        My breasts were abnormally asymmetrical. In high school I was flat chested
+        on my left side and a large B cup on the right side. My family and friends
+        knew that I had this abnormality but many people didn\u2019t know because
+        of my ability to disguise it. I made a few rules for myself to follow like
+        having to wear heavily padded bras, no stripes, no low cut shirts, and the
+        worst part was swim suits. A few people would recognize it and actually ask
+        me if my boobs were uneven and I would simply reply yes. I wasn\u2019t necessarily
+        embarrassed by it but I definitely wasn\u2019t going around telling people.
+        After I graduated I wanted to undergo surgery to correct this deformity before
+        I went off to college. My mother took me to a plastic surgeon who was very
+        willing to do the surgery but my mother wasn\u2019t ready to have me such
+        a \u201cbig surgery\u201d at such a young age. For 2 more years I constantly
+        asked her to let me have the surgery and she finally agreed to have another
+        consultation this summer. I went to a surgeon that she had heard highly of
+        and he informed me that I had a rare disorder called Poland syndrome. Having
+        heard the news I wasn\u2019t sure what it was or what it actually entailed.
+        He informed me that Poland syndrome is basically a disorder that can affect
+        the pectoral muscle development and often leads to breasts being underdeveloped.
+        It can also lead to webbed fingers but I\u2019m all good in that department.
+        This occurs because while in the womb there is a circulation problem with
+        blood flow from the chest to the hands and that generally leads to underdeveloped
+        muscles or hand abnormalities. It has also been proven that this happens more
+        often in males than females and also is more common on the right side of the
+        body than the left. I however am a female that was affected on the left side.
+        Hearing this news he informed me that there was a great chance my insurance
+        would cover my surgery and that he could write a letter of recommendation
+        saying that he believes it\u2019s Poland syndrome. A month later I was lucky
+        enough to have my insurance cover my surgery and I got a breast augmentation
+        on my underdeveloped (left) breast. My surgeon also lifted my right breast
+        slightly and changed the size of my areola to best match my new breast implant.
+        He told me after the surgery that my pectoral muscle was definitely underdeveloped
+        and that he was 100% certain it was Poland syndrome. It has been about 2 months
+        after my breast augmentation and my new chest is healing and looking better
+        than I could have ever imagined. I decided to do this AmA because I would
+        have really liked knowing that I wasn\u2019t alone in this condition when
+        I was younger. I\u2019d like to inform people who maybe aren\u2019t aware
+        of this syndrome and also let people know who have it that they aren\u2019t
+        alone :)\n\n**My Proof**\nhttp://imgur.com/a/OKOgr\n\n\nEDIT: Thanks so much
+        for all the positive feedback! Feel free to continue asking questions, making
+        comments, or sharing your own personal story! I will try to continue acknowledging
+        as many people as I can! You''ve all been very very kind to me and my situation!
+        ", "likes": null, "secure_media": null, "link_flair_text": "", "id": "1n08vg",
+        "gilded": 0, "secure_media_embed": {}, "clicked": false, "stickied": false,
+        "author": "polandsyndrome", "media": null, "score": 3798, "approved_by": null,
+        "over_18": true, "hidden": false, "thumbnail": "nsfw", "subreddit_id": "t5_2qzb6",
+        "edited": 1380258290.0, "link_flair_css_class": "health", "author_flair_css_class":
+        null, "downs": 5233, "saved": false, "is_self": true, "permalink": "/r/IAmA/comments/1n08vg/iama_20_year_old_female_with_poland_syndrome_born/",
+        "name": "t3_1n08vg", "created": 1379995320.0, "url": "http://www.reddit.com/r/IAmA/comments/1n08vg/iama_20_year_old_female_with_poland_syndrome_born/",
+        "author_flair_text": null, "title": "IamA 20 year old female with Poland syndrome
+        (born with one breast) AMA!", "created_utc": 1379991720.0, "ups": 9031, "num_comments":
+        2379, "visited": false, "num_reports": null, "distinguished": null}}, {"kind":
+        "t3", "data": {"domain": "self.soccer", "banned_by": null, "media_embed":
+        {}, "subreddit": "soccer", "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div
+        class=\"md\"&gt;&lt;p&gt;&lt;strong&gt;EURO 2012 - GROUP A&lt;/strong&gt;
+        - &lt;a href=\"http://www.uefa.com/uefaeuro/season=2012/matches/live/day=1/session=1/match=2003319/index.html\"&gt;POLAND
+        vs GREECE&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Kick-Off: 18:00 CEST (19:00 EEST/17:00
+        WEST/16:00 UTC/12:00 EDT)&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"//#info\"&gt;&lt;/a&gt;
+        &lt;strong&gt;Venue: &lt;a href=\"http://en.wikipedia.org/wiki/National_Stadium,_Warsaw\"&gt;National
+        Stadium&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Capacity: 58,500&lt;/p&gt;\n\n&lt;p&gt;Location:
+        Warsaw, Poland&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.wunderground.com/q/zmw:00000.1.12375\"&gt;Weather
+        forecast:&lt;/a&gt; 23\u00b0C (72\u00b0F), Thunderstorm, Humidity 75%, Rain
+        50%. &lt;strong&gt;Update:&lt;/strong&gt; Stadium roof is &lt;strong&gt;closed&lt;/strong&gt;.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Referee:&lt;/strong&gt;
+        &lt;a href=\"http://worldreferee.com/site/copy.php?linkID=1074\"&gt;Carlos
+        Velasco Carballo&lt;/a&gt; (Spain)&lt;/p&gt;\n\n&lt;p&gt;Sideline assistants:
+        Roberto Alonso Fern\u00e1ndez, Juan Carlos Yuste Jim\u00e9nez&lt;/p&gt;\n\n&lt;p&gt;Goalline
+        assistants: David Fern\u00e1ndez Borbal\u00e1n, Carlos Clos G\u00f3mez&lt;/p&gt;\n\n&lt;p&gt;4th
+        official: Gianluca Rocchi (Italy)&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;Join
+        the &lt;strong&gt;&lt;a href=\"http://webchat.freenode.net/?channels=#reddit-soccer\"&gt;/r/soccer
+        IRC chat&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Match
+        Hashtags:&lt;/strong&gt; &lt;a href=\"https://twitter.com/search/%23euro2012\"&gt;#euro2012&lt;/a&gt;,
+        \n&lt;a href=\"https://twitter.com/search/%23POLGRE\"&gt;#POLGRE&lt;/a&gt;,
+        \n&lt;a href=\"https://twitter.com/search/%23POL\"&gt;#POL&lt;/a&gt;, \n&lt;a
+        href=\"https://twitter.com/#!/search/%23GRE\"&gt;#GRE&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;em&gt;Make
+        your own match threads quickly and easily with &lt;a href=\"http://redd.it/ur1s6\"&gt;this
+        template&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;Broadcasts:&lt;/strong&gt;
+        &lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=\"http://www.livesoccertv.com/match/372640/poland-vs-greece/\"&gt;Worldwide
+        TV/Radio/Streaming Schedule&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Internet
+        Streams:&lt;/strong&gt;  &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"//#stream\"&gt;&lt;/a&gt;
+        &lt;a href=\"http://livetv.ru/en/eventinfo/101168_poland_greece/\"&gt;LiveTV.ru&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a
+        href=\"//#stream\"&gt;&lt;/a&gt; &lt;a href=\"http://www.thefirstrow.eu/watch/125930/1/watch-poland-vs-greece.html\"&gt;Firstrowsports&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a
+        href=\"//#stream\"&gt;&lt;/a&gt; &lt;a href=\"http://www.sportlemon.tv/wv-4/0/156/v-415748.html\"&gt;ATDHE&lt;/a&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;Preview&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a
+        href=\"//#news\"&gt;&lt;/a&gt; &lt;a href=\"http://j.mp/JSgQ9u\"&gt;UEFA&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a
+        href=\"//#news\"&gt;&lt;/a&gt; &lt;a href=\"http://www.goal.com/en-ca/match/71162/poland-vs-greece/preview\"&gt;Goal.com&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a
+        href=\"//#news\"&gt;&lt;/a&gt; &lt;a href=\"http://j.mp/KTQnMY\"&gt;Soccerway&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a
+        href=\"//#news\"&gt;&lt;/a&gt; &lt;a href=\"http://soccernet.espn.go.com/preview/_/id/334180?cc=5901\"&gt;ESPN&lt;/a&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;POLAND&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Coach:&lt;/strong&gt;
+        Franciszek Smuda&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Starting XI:&lt;/strong&gt;
+        4-2-3-1&lt;/p&gt;\n\n&lt;table&gt;&lt;thead&gt;\n&lt;tr&gt;\n&lt;th align=\"right\"&gt;&amp;#35;&lt;/th&gt;\n&lt;th
+        align=\"center\"&gt;Pos.&lt;/th&gt;\n&lt;th align=\"left\"&gt;Name&lt;/th&gt;\n&lt;th
+        align=\"left\"&gt;Club&lt;/th&gt;\n&lt;th align=\"left\"&gt;&amp;nbsp;&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;1&lt;/td&gt;\n&lt;td align=\"center\"&gt;GK&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Wojciech Szcz\u0119sny&lt;/td&gt;\n&lt;td align=\"left\"&gt;Arsenal&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;a href=\"//#red\"&gt;&lt;/a&gt; 69&amp;#39;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;20&lt;/td&gt;\n&lt;td align=\"center\"&gt;DF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;\u0141ukasz Piszczek&lt;/td&gt;\n&lt;td align=\"left\"&gt;Borussia
+        Dortmund&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;13&lt;/td&gt;\n&lt;td align=\"center\"&gt;DF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Marcin Wasilewski&lt;/td&gt;\n&lt;td align=\"left\"&gt;Anderlecht&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"right\"&gt;15&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;DF&lt;/td&gt;\n&lt;td align=\"left\"&gt;Damien Perquis&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Sochaux&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;2&lt;/td&gt;\n&lt;td align=\"center\"&gt;DF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Sebastian Boenisch&lt;/td&gt;\n&lt;td align=\"left\"&gt;Werder
+        Bremen&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;11&lt;/td&gt;\n&lt;td align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Rafa\u0142 Murawski&lt;/td&gt;\n&lt;td align=\"left\"&gt;Lech
+        Pozna\u0144&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;7&lt;/td&gt;\n&lt;td align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Eugen Polanski&lt;/td&gt;\n&lt;td align=\"left\"&gt;Mainz
+        05&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;16&lt;/td&gt;\n&lt;td align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Jakub B\u0142aszczykowski&lt;/td&gt;\n&lt;td align=\"left\"&gt;Borussia
+        Dortmund&lt;/td&gt;\n&lt;td align=\"left\"&gt;\u00a9&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;10&lt;/td&gt;\n&lt;td align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Ludovic Obraniak&lt;/td&gt;\n&lt;td align=\"left\"&gt;Bordeaux&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"right\"&gt;8&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td align=\"left\"&gt;Maciej Rybus&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Terek Grozny&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;a
+        href=\"//#down\"&gt;&lt;/a&gt; 69&amp;#39;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;9&lt;/td&gt;\n&lt;td align=\"center\"&gt;FW&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Robert Lewandowski&lt;/td&gt;\n&lt;td align=\"left\"&gt;Borussia
+        Dortmund&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;a href=\"//#ball\"&gt;&lt;/a&gt;
+        17&amp;#39;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;&lt;/table&gt;\n\n&lt;p&gt;&lt;strong&gt;Bench:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;table&gt;&lt;thead&gt;\n&lt;tr&gt;\n&lt;th
+        align=\"right\"&gt;&amp;#35;&lt;/th&gt;\n&lt;th align=\"center\"&gt;Pos.&lt;/th&gt;\n&lt;th
+        align=\"left\"&gt;Name&lt;/th&gt;\n&lt;th align=\"left\"&gt;Club&lt;/th&gt;\n&lt;th
+        align=\"left\"&gt;&amp;nbsp;&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;22&lt;/td&gt;\n&lt;td align=\"center\"&gt;GK&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Przemys\u0142aw Tyto\u0144&lt;/td&gt;\n&lt;td align=\"left\"&gt;PSV
+        Eindhoven&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;a href=\"//#up\"&gt;&lt;/a&gt;
+        69&amp;#39;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"right\"&gt;12&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;GK&lt;/td&gt;\n&lt;td align=\"left\"&gt;Grzegorz Sandomierski&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Jagiellonia Bia\u0142ystok&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;3&lt;/td&gt;\n&lt;td align=\"center\"&gt;DF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Grzegorz Wojtkowiak&lt;/td&gt;\n&lt;td align=\"left\"&gt;Lech
+        Pozna\u0144&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;4&lt;/td&gt;\n&lt;td align=\"center\"&gt;DF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Marcin Kami\u0144ski&lt;/td&gt;\n&lt;td align=\"left\"&gt;Lech
+        Pozna\u0144&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;14&lt;/td&gt;\n&lt;td align=\"center\"&gt;DF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Jakub Wawrzyniak&lt;/td&gt;\n&lt;td align=\"left\"&gt;Legia
+        Warsaw&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;5&lt;/td&gt;\n&lt;td align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Dariusz Dudka&lt;/td&gt;\n&lt;td align=\"left\"&gt;Auxerre&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"right\"&gt;6&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td align=\"left\"&gt;Adam Matuszczyk&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Fortuna D\u00fcsseldorf&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;18&lt;/td&gt;\n&lt;td align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Adrian Mierzejewski&lt;/td&gt;\n&lt;td align=\"left\"&gt;Trabzonspor&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"right\"&gt;19&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td align=\"left\"&gt;Rafa\u0142 Wolski&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Legia Warsaw&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;21&lt;/td&gt;\n&lt;td align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Kamil Grosicki&lt;/td&gt;\n&lt;td align=\"left\"&gt;Sivasspor&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"right\"&gt;17&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;FW&lt;/td&gt;\n&lt;td align=\"left\"&gt;Artur Sobiech&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Hannover 96&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;23&lt;/td&gt;\n&lt;td align=\"center\"&gt;FW&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Pawe\u0142 Bro\u017cek&lt;/td&gt;\n&lt;td align=\"left\"&gt;Celtic&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;&lt;/table&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;GREECE&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Coach:&lt;/strong&gt;
+        Fernando Santos&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Starting XI:&lt;/strong&gt;
+        4-3-3&lt;/p&gt;\n\n&lt;table&gt;&lt;thead&gt;\n&lt;tr&gt;\n&lt;th align=\"right\"&gt;&amp;#35;&lt;/th&gt;\n&lt;th
+        align=\"center\"&gt;Pos.&lt;/th&gt;\n&lt;th align=\"left\"&gt;Name&lt;/th&gt;\n&lt;th
+        align=\"left\"&gt;Club&lt;/th&gt;\n&lt;th align=\"left\"&gt;&amp;nbsp;&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;1&lt;/td&gt;\n&lt;td align=\"center\"&gt;GK&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Kostas Chalkias&lt;/td&gt;\n&lt;td align=\"left\"&gt;P.A.O.K.&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"right\"&gt;15&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;DF&lt;/td&gt;\n&lt;td align=\"left\"&gt;Vasilis Torosidis&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Olympiacos&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;19&lt;/td&gt;\n&lt;td align=\"center\"&gt;DF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Sokratis Papastathopoulos&lt;/td&gt;\n&lt;td align=\"left\"&gt;Werder
+        Bremen&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;a href=\"//#yellow\"&gt;&lt;/a&gt;
+        35&amp;#39; &lt;a href=\"//#red\"&gt;&lt;/a&gt; 45&amp;#39;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;8&lt;/td&gt;\n&lt;td align=\"center\"&gt;DF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Avraam Papadopoulos&lt;/td&gt;\n&lt;td align=\"left\"&gt;Olympiacos&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;a href=\"//#down\"&gt;&lt;/a&gt; 36&amp;#39;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;20&lt;/td&gt;\n&lt;td align=\"center\"&gt;DF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Jos\u00e9 Holebas&lt;/td&gt;\n&lt;td align=\"left\"&gt;Olympiacos&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;a href=\"//#yellow\"&gt;&lt;/a&gt; 45+2&amp;#39;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;2&lt;/td&gt;\n&lt;td align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Ioannis Maniatis&lt;/td&gt;\n&lt;td align=\"left\"&gt;Olympiacos&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"right\"&gt;21&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td align=\"left\"&gt;Kostas Katsouranis&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Panathinaikos&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;10&lt;/td&gt;\n&lt;td align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Giorgos Karagounis&lt;/td&gt;\n&lt;td align=\"left\"&gt;Panathinaikos&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;\u00a9 &lt;a href=\"//#yellow\"&gt;&lt;/a&gt; 54&amp;#39;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;18&lt;/td&gt;\n&lt;td align=\"center\"&gt;FW&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Sotiris Ninis&lt;/td&gt;\n&lt;td align=\"left\"&gt;Panathinaikos&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;a href=\"//#down\"&gt;&lt;/a&gt; 45&amp;#39;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;17&lt;/td&gt;\n&lt;td align=\"center\"&gt;FW&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Theofanis Gekas&lt;/td&gt;\n&lt;td align=\"left\"&gt;Samsunspor&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;a href=\"//#down\"&gt;&lt;/a&gt; 67&amp;#39;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;7&lt;/td&gt;\n&lt;td align=\"center\"&gt;FW&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Georgios Samaras&lt;/td&gt;\n&lt;td align=\"left\"&gt;Celtic&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;&lt;/table&gt;\n\n&lt;p&gt;&lt;strong&gt;Bench:&lt;/strong&gt;
+        &lt;/p&gt;\n\n&lt;table&gt;&lt;thead&gt;\n&lt;tr&gt;\n&lt;th align=\"right\"&gt;&amp;#35;&lt;/th&gt;\n&lt;th
+        align=\"center\"&gt;Pos.&lt;/th&gt;\n&lt;th align=\"left\"&gt;Name&lt;/th&gt;\n&lt;th
+        align=\"left\"&gt;Club&lt;/th&gt;\n&lt;th align=\"left\"&gt;&amp;nbsp;&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;12&lt;/td&gt;\n&lt;td align=\"center\"&gt;GK&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Alexandros Tzorvas&lt;/td&gt;\n&lt;td align=\"left\"&gt;Palermo&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"right\"&gt;13&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;GK&lt;/td&gt;\n&lt;td align=\"left\"&gt;Michalis Sifakis&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Aris Thessaloniki&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;3&lt;/td&gt;\n&lt;td align=\"center\"&gt;DF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Giorgos Tzavelas&lt;/td&gt;\n&lt;td align=\"left\"&gt;Monaco&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"right\"&gt;4&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;DF&lt;/td&gt;\n&lt;td align=\"left\"&gt;Stelios Malezas&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;P.A.O.K.&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;5&lt;/td&gt;\n&lt;td align=\"center\"&gt;DF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Kyriakos Papadopoulos&lt;/td&gt;\n&lt;td align=\"left\"&gt;Schalke
+        04&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;a href=\"//#up\"&gt;&lt;/a&gt;
+        36&amp;#39;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"right\"&gt;6&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td align=\"left\"&gt;Grigoris Makos&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;AEK Athens&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;16&lt;/td&gt;\n&lt;td align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Georgios Fotakis&lt;/td&gt;\n&lt;td align=\"left\"&gt;P.A.O.K&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"right\"&gt;22&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td align=\"left\"&gt;Kostas Fortounis&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;1. FC Kaiserslautern&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;a
+        href=\"//#up\"&gt;&lt;/a&gt; 67&amp;#39;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;23&lt;/td&gt;\n&lt;td align=\"center\"&gt;MF&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Giannis Fetfatzidis&lt;/td&gt;\n&lt;td align=\"left\"&gt;Olympiacos&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"right\"&gt;9&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;FW&lt;/td&gt;\n&lt;td align=\"left\"&gt;Nikos Liberopoulos&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;AEK Athens&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"right\"&gt;11&lt;/td&gt;\n&lt;td align=\"center\"&gt;FW&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;Kostas Mitroglou&lt;/td&gt;\n&lt;td align=\"left\"&gt;Atromitos&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"right\"&gt;14&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;FW&lt;/td&gt;\n&lt;td align=\"left\"&gt;Dimitris Salpigidis&lt;/td&gt;\n&lt;td
+        align=\"left\"&gt;P.A.O.K&lt;/td&gt;\n&lt;td align=\"left\"&gt;&lt;a href=\"//#up\"&gt;&lt;/a&gt;
+        45&amp;#39; &lt;a href=\"//#ball\"&gt;&lt;/a&gt; 51&amp;#39;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;&lt;/table&gt;\n\n&lt;hr/&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;p&gt;&lt;a
+        href=\"//#notes\"&gt;&lt;/a&gt; &lt;strong&gt;Prematch news:&lt;/strong&gt;
+        Lineups are announced. Due to the weather in Warsaw the retractable roof of
+        the National Stadium will be closed for the match. &lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;a
+        href=\"//#notes\"&gt;&lt;/a&gt; The opening ceremony was the typical awkward
+        cultural display. Now that it&amp;#39;s over, the crowd is clearly wondering
+        what&amp;#39;s keeping the players off the pitch.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;a
+        href=\"//#notes\"&gt;&lt;/a&gt; Here come the players. Anthem time!&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;01&amp;#39;&lt;/strong&gt;
+        &lt;a href=\"//#clock\"&gt;&lt;/a&gt; Greece kick off and get EURO 2012 started!&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;02&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Sokratis fouled
+        by Lewandowski&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;03&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL &lt;a href=\"//#whistle\"&gt;&lt;/a&gt;
+        GRE&lt;/strong&gt; Karagounis fouled by Polanski; Lewandowski fouled by Gekas&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;06&amp;#39;
+        &lt;a href=\"//#flag\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; Gekas offside. Poland
+        getting the early pressure, but the Greeks defense holds thanks to some good
+        blocks.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;08&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; B\u0142aszczykowski
+        fouled by Papadopoulos&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;09&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Papadopoulos fouled
+        by Lewandowski&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;11&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Gekas fouled by
+        Perquis. Yet another cheap foul near midfield; Karagounis&amp;#39; delivery
+        to Gekas was flicked on, but missed the goal.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;15&amp;#39;&lt;/strong&gt;
+        Polish medical staff on the to treat Obraniak after a heavy but fair challenge
+        by Sokratis. Looks winded, not injured.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;17&amp;#39;
+        &lt;a href=\"//#ball\"&gt;&lt;/a&gt; POL Robert LEWANDOWSKI&lt;/strong&gt;
+        gets the first goal of the tournament. Cross comes in from B\u0142aszczykowski
+        on the right wing to the far post and powered down and into the goal. &lt;strong&gt;POL
+        1-0 GRE &lt;a href=\"http://www.101greatgoals.com/gvideos/10-robert-lewandowski-poland-v-greece/\"&gt;video&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;21&amp;#39;&lt;/strong&gt;
+        Avraam Papadopoulos down injured and Kyriakos Papadopoulos looks ready to
+        come on. But after some magic spray is applied to his left leg, Papadopoulos
+        rejoins the action, at least temporarily&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;23&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; Boenisch fouled
+        by Maniatis &lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;27&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; Obraniak fouled
+        by Karagounis&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;29&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Ninis fouled by
+        Boenisch &lt;em&gt;just&lt;/em&gt; outside the Polish penalty area&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;30&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Maniatis fouled
+        by Murawski&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;34&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Karagounis fouled
+        by Obraniak right in the centre of the Polish half&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;35&amp;#39;
+        &lt;a href=\"//#yellow\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; Sokratis climbing
+        all over the back of Lewandowski, certainly a foul but nothing obviously deserving
+        to go in the book.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;36&amp;#39;
+        &lt;a href=\"//#sub\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; Papadopoulos for Papadopoulos
+        (Kyriakos for Avraam).&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;44&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Karagounis fouled
+        by Polanski &lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;45&amp;#39;
+        &lt;a href=\"//#red\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; A second yellow for
+        Sokratis Papastathopoulos for a push on Lewandowski. Another harsh call. &lt;strong&gt;&lt;a
+        href=\"http://www.101greatgoals.com/gvideos/shocking-decision-sokratis-papastathopoulos-sent-greece-v-poland/\"&gt;video&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;45+1&amp;#39;&lt;/strong&gt;
+        &lt;a href=\"//#clock\"&gt;&lt;/a&gt; 3 minutes to be added.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;45+2&amp;#39;
+        &lt;a href=\"//#yellow\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; Possible handball
+        by Poland in their penalty area (&lt;strong&gt;&lt;a href=\"http://www.101greatgoals.com/gvideos/handball-box-penalty-damien-perquis-poland-v-greece/\"&gt;video&lt;/a&gt;&lt;/strong&gt;)
+        but nothing from the referee. Holebas fouls Lewandowski on the halfway line
+        as Poland clear the ball forward.&lt;/p&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;table&gt;&lt;thead&gt;\n&lt;tr&gt;\n&lt;th
+        align=\"left\"&gt;POL&lt;/th&gt;\n&lt;th align=\"center\"&gt;HT Statistics&lt;/th&gt;\n&lt;th
+        align=\"right\"&gt;GRE&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"left\"&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;\n&lt;td align=\"center\"&gt;&lt;a
+        href=\"//#ball\"&gt;&lt;/a&gt; Goals&lt;/td&gt;\n&lt;td align=\"right\"&gt;&lt;strong&gt;0&lt;/strong&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"left\"&gt;8&lt;/td&gt;\n&lt;td align=\"center\"&gt;Shots&lt;/td&gt;\n&lt;td
+        align=\"right\"&gt;2&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;2&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;&lt;a href=\"//#net\"&gt;&lt;/a&gt; On Goal&lt;/td&gt;\n&lt;td
+        align=\"right\"&gt;0&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;3&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;Corners&lt;/td&gt;\n&lt;td align=\"right\"&gt;3&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"left\"&gt;10&lt;/td&gt;\n&lt;td align=\"center\"&gt;&lt;a href=\"//#whistle\"&gt;&lt;/a&gt;
+        Fouls&lt;/td&gt;\n&lt;td align=\"right\"&gt;7&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"left\"&gt;0&lt;/td&gt;\n&lt;td align=\"center\"&gt;&lt;a href=\"//#flag\"&gt;&lt;/a&gt;
+        Offsides&lt;/td&gt;\n&lt;td align=\"right\"&gt;1&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"left\"&gt;0&lt;/td&gt;\n&lt;td align=\"center\"&gt;&lt;a href=\"//#yellow\"&gt;&lt;/a&gt;
+        Yellow&lt;/td&gt;\n&lt;td align=\"right\"&gt;1&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"left\"&gt;0&lt;/td&gt;\n&lt;td align=\"center\"&gt;&lt;a href=\"//#red\"&gt;&lt;/a&gt;
+        Red&lt;/td&gt;\n&lt;td align=\"right\"&gt;1&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"left\"&gt;51%&lt;/td&gt;\n&lt;td align=\"center\"&gt;Possession&lt;/td&gt;\n&lt;td
+        align=\"right\"&gt;49%&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;&lt;/table&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;45&amp;#39;
+        &lt;a href=\"//#sub\"&gt;&lt;/a&gt; GRE &lt;a href=\"//#clock\"&gt;&lt;/a&gt;&lt;/strong&gt;
+        Salpingidis comes on for Ninis at halftime; Poland start the second half.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;50&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Karagounis fouled
+        by Murawski&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;51&amp;#39;
+        &lt;a href=\"//#ball\"&gt;&lt;/a&gt; GRE Dimitris SALPINGIDIS&lt;/strong&gt;
+        capitalizes on a disastrous error by the Polish defensse. &lt;strong&gt;POL
+        1-1 GRE &lt;a href=\"http://www.101greatgoals.com/gvideos/11-dimitris-salpigidis-greece-v-poland/\"&gt;video&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;54&amp;#39;
+        &lt;a href=\"//#yellow\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; Deliberate handball
+        near the halfway line by Karagounis.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;57&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; Lewandowski fouled
+        by Papadopoulos&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;60&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; Boenisch fouled
+        by Salpingidis&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;61&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Torossidis fouled
+        by Rybus&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;65&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Torossidis fouled
+        by Rybus&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;67&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL &lt;a href=\"//#sub\"&gt;&lt;/a&gt;
+        GRE&lt;/strong&gt; Gekas fouled by Wasilewski; Fortounis for Gekas&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;69&amp;#39;
+        &lt;a href=\"//#red\"&gt;&lt;/a&gt; POL &lt;a href=\"//#sub\"&gt;&lt;/a&gt;
+        POL&lt;/strong&gt; Szcz\u0119sny impedes Salpingidis and gets sent off, and
+        it&amp;#39;s a penalty to Greece; Tyto\u0144 for Rybus&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;72&amp;#39;&lt;/strong&gt;
+        Przemys\u0142aw Tyto\u0144 &lt;strong&gt;saves&lt;/strong&gt; Karagounis&amp;#39;
+        penalty. Score remains &lt;strong&gt;POL 1-1 GRE&lt;/strong&gt;, and now it&amp;#39;s
+        10 v 10 **&lt;a href=\"http://www.101greatgoals.com/gvideos/wojciech-szczesny-sent-fouling-salpingidis-georgios-karagounis-penalty-saved-przemyslaw-tyton/\"&gt;video&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;74&amp;#39;
+        &lt;a href=\"//#flag\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; Salpingidis thinks
+        he&amp;#39;s scored but Fortounis was offside before providing the cross.&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;75&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; Lewandowski fouled
+        by Holebas&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;76&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; B\u0142aszczykowski
+        fouled by Maniatis&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;77&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Holebas fouled
+        by B\u0142aszczykowski&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;79&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Maniatis fouled
+        by B\u0142aszczykowski&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;82&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; Handball by Samaras&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;86&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Torossidis fouled
+        by Boenisch&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;87&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Samaras fouled
+        by Perquis&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;88&amp;#39;
+        &lt;a href=\"//#flag\"&gt;&lt;/a&gt; GRE&lt;/strong&gt; Katsouranis offside&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;89&amp;#39;
+        &lt;a href=\"//#whistle\"&gt;&lt;/a&gt; POL&lt;/strong&gt; Karagounis fouled
+        by B\u0142aszczykowski&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;90&amp;#39;
+        &lt;a href=\"//#clock\"&gt;&lt;/a&gt; &lt;a href=\"//#whistle\"&gt;&lt;/a&gt;
+        GRE&lt;/strong&gt; 3 minutes to be added; B\u0142aszczykowski fouled by Samaras&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;strong&gt;90+3&amp;#39;
+        &lt;a href=\"//#clock\"&gt;&lt;/a&gt; Full Time.&lt;/strong&gt; Final score  &lt;strong&gt;POLAND
+        1-1 GREECE&lt;/strong&gt; Nothing like a little controversy to start a tournament.&lt;/p&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;table&gt;&lt;thead&gt;\n&lt;tr&gt;\n&lt;th
+        align=\"left\"&gt;POL&lt;/th&gt;\n&lt;th align=\"center\"&gt;FT Statistics&lt;/th&gt;\n&lt;th
+        align=\"right\"&gt;GRE&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"left\"&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;\n&lt;td align=\"center\"&gt;&lt;a
+        href=\"//#ball\"&gt;&lt;/a&gt; Goals&lt;/td&gt;\n&lt;td align=\"right\"&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"left\"&gt;17&lt;/td&gt;\n&lt;td align=\"center\"&gt;Shots&lt;/td&gt;\n&lt;td
+        align=\"right\"&gt;8&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;3&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;&lt;a href=\"//#net\"&gt;&lt;/a&gt; On Goal&lt;/td&gt;\n&lt;td
+        align=\"right\"&gt;2&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;4&lt;/td&gt;\n&lt;td
+        align=\"center\"&gt;Corners&lt;/td&gt;\n&lt;td align=\"right\"&gt;3&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"left\"&gt;23&lt;/td&gt;\n&lt;td align=\"center\"&gt;&lt;a href=\"//#whistle\"&gt;&lt;/a&gt;
+        Fouls&lt;/td&gt;\n&lt;td align=\"right\"&gt;16&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"left\"&gt;0&lt;/td&gt;\n&lt;td align=\"center\"&gt;&lt;a href=\"//#flag\"&gt;&lt;/a&gt;
+        Offsides&lt;/td&gt;\n&lt;td align=\"right\"&gt;3&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"left\"&gt;0&lt;/td&gt;\n&lt;td align=\"center\"&gt;&lt;a href=\"//#yellow\"&gt;&lt;/a&gt;
+        Yellow&lt;/td&gt;\n&lt;td align=\"right\"&gt;2&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"left\"&gt;1&lt;/td&gt;\n&lt;td align=\"center\"&gt;&lt;a href=\"//#red\"&gt;&lt;/a&gt;
+        Red&lt;/td&gt;\n&lt;td align=\"right\"&gt;1&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td
+        align=\"left\"&gt;54%&lt;/td&gt;\n&lt;td align=\"center\"&gt;Possession&lt;/td&gt;\n&lt;td
+        align=\"right\"&gt;46%&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;&lt;/table&gt;\n&lt;/div&gt;&lt;!--
+        SC_ON --&gt;", "selftext": "**EURO 2012 - GROUP A** - [POLAND vs GREECE](http://www.uefa.com/uefaeuro/season=2012/matches/live/day=1/session=1/match=2003319/index.html)\n\nKick-Off:
+        18:00 CEST (19:00 EEST/17:00 WEST/16:00 UTC/12:00 EDT)\n\n[](//#info) **Venue:
+        [National Stadium](http://en.wikipedia.org/wiki/National_Stadium,_Warsaw)**\n\nCapacity:
+        58,500\n\nLocation: Warsaw, Poland\n\n[Weather forecast:](http://www.wunderground.com/q/zmw:00000.1.12375)
+        23\u00b0C (72\u00b0F), Thunderstorm, Humidity 75%, Rain 50%. **Update:** Stadium
+        roof is **closed**.\n\n**Referee:** [Carlos Velasco Carballo](http://worldreferee.com/site/copy.php?linkID=1074)
+        (Spain)\n\nSideline assistants: Roberto Alonso Fern\u00e1ndez, Juan Carlos
+        Yuste Jim\u00e9nez\n\nGoalline assistants: David Fern\u00e1ndez Borbal\u00e1n,
+        Carlos Clos G\u00f3mez\n\n4th official: Gianluca Rocchi (Italy)\n\n-----------------------------------------------------------------\n\nJoin
+        the **[/r/soccer IRC chat](http://webchat.freenode.net/?channels=#reddit-soccer)**\n\n**Match
+        Hashtags:** [#euro2012](https://twitter.com/search/%23euro2012), \n[#POLGRE](https://twitter.com/search/%23POLGRE),
+        \n[#POL](https://twitter.com/search/%23POL), \n[#GRE](https://twitter.com/#!/search/%23GRE)\n\n*Make
+        your own match threads quickly and easily with [this template](http://redd.it/ur1s6)*\n\n-----------------------------------------------------------------\n\n**Broadcasts:**
+        \n\n* [Worldwide TV/Radio/Streaming Schedule](http://www.livesoccertv.com/match/372640/poland-vs-greece/)\n\n**Internet
+        Streams:**  \n\n[](//#stream) [LiveTV.ru](http://livetv.ru/en/eventinfo/101168_poland_greece/)\n\n[](//#stream)
+        [Firstrowsports](http://www.thefirstrow.eu/watch/125930/1/watch-poland-vs-greece.html)\n\n[](//#stream)
+        [ATDHE](http://www.sportlemon.tv/wv-4/0/156/v-415748.html)\n\n-----------------------------------------------------------------\n\n**Preview**\n\n[](//#news)
+        [UEFA](http://j.mp/JSgQ9u)\n\n[](//#news) [Goal.com](http://www.goal.com/en-ca/match/71162/poland-vs-greece/preview)\n\n[](//#news)
+        [Soccerway](http://j.mp/KTQnMY)\n\n[](//#news) [ESPN](http://soccernet.espn.go.com/preview/_/id/334180?cc=5901)\n\n-----------------------------------------------------------------\n\n**POLAND**\n\n**Coach:**
+        Franciszek Smuda\n\n**Starting XI:** 4-2-3-1\n\n&amp;#35;|Pos.|Name|Club|&amp;nbsp;\n---:|:--:|:---|:---|:---\n1|GK|Wojciech
+        Szcz\u0119sny|Arsenal|[](//#red) 69''\n20|DF|\u0141ukasz Piszczek|Borussia
+        Dortmund|\n13|DF|Marcin Wasilewski|Anderlecht|\n15|DF|Damien Perquis|Sochaux|\n2|DF|Sebastian
+        Boenisch|Werder Bremen|\n11|MF|Rafa\u0142 Murawski|Lech Pozna\u0144|\n7|MF|Eugen
+        Polanski|Mainz 05|\n16|MF|Jakub B\u0142aszczykowski|Borussia Dortmund|\u00a9\n10|MF|Ludovic
+        Obraniak|Bordeaux|\n8|MF|Maciej Rybus|Terek Grozny|[](//#down) 69''\n9|FW|Robert
+        Lewandowski|Borussia Dortmund|[](//#ball) 17''\n\n**Bench:**\n\n&amp;#35;|Pos.|Name|Club|&amp;nbsp;\n---:|:--:|:---|:---|:---\n22|GK|Przemys\u0142aw
+        Tyto\u0144|PSV Eindhoven|[](//#up) 69''\n12|GK|Grzegorz Sandomierski|Jagiellonia
+        Bia\u0142ystok|\n3|DF|Grzegorz Wojtkowiak|Lech Pozna\u0144|\n4|DF|Marcin Kami\u0144ski|Lech
+        Pozna\u0144|\n14|DF|Jakub Wawrzyniak|Legia Warsaw|\n5|MF|Dariusz Dudka|Auxerre|\n6|MF|Adam
+        Matuszczyk|Fortuna D\u00fcsseldorf|\n18|MF|Adrian Mierzejewski|Trabzonspor|\n19|MF|Rafa\u0142
+        Wolski|Legia Warsaw|\n21|MF|Kamil Grosicki|Sivasspor|\n17|FW|Artur Sobiech|Hannover
+        96|\n23|FW|Pawe\u0142 Bro\u017cek|Celtic|\n\n-----------------------------------------------------------------\n\n**GREECE**\n\n**Coach:**
+        Fernando Santos\n\n**Starting XI:** 4-3-3\n\n&amp;#35;|Pos.|Name|Club|&amp;nbsp;\n---:|:--:|:---|:---|:---\n1|GK|Kostas
+        Chalkias|P.A.O.K.|\n15|DF|Vasilis Torosidis|Olympiacos|\n19|DF|Sokratis Papastathopoulos|Werder
+        Bremen|[](//#yellow) 35'' [](//#red) 45''\n8|DF|Avraam Papadopoulos|Olympiacos|[](//#down)
+        36''\n20|DF|Jos\u00e9 Holebas|Olympiacos|[](//#yellow) 45+2''\n2|MF|Ioannis
+        Maniatis|Olympiacos|\n21|MF|Kostas Katsouranis|Panathinaikos|\n10|MF|Giorgos
+        Karagounis|Panathinaikos|\u00a9 [](//#yellow) 54''\n18|FW|Sotiris Ninis|Panathinaikos|[](//#down)
+        45''\n17|FW|Theofanis Gekas|Samsunspor|[](//#down) 67''\n7|FW|Georgios Samaras|Celtic|\n\n**Bench:**
+        \n\n&amp;#35;|Pos.|Name|Club|&amp;nbsp;\n---:|:--:|:---|:---|:---\n12|GK|Alexandros
+        Tzorvas|Palermo|\n13|GK|Michalis Sifakis|Aris Thessaloniki|\n3|DF|Giorgos
+        Tzavelas|Monaco|\n4|DF|Stelios Malezas|P.A.O.K.|\n5|DF|Kyriakos Papadopoulos|Schalke
+        04|[](//#up) 36''\n6|MF|Grigoris Makos|AEK Athens|\n16|MF|Georgios Fotakis|P.A.O.K|\n22|MF|Kostas
+        Fortounis|1. FC Kaiserslautern|[](//#up) 67''\n23|MF|Giannis Fetfatzidis|Olympiacos|\n9|FW|Nikos
+        Liberopoulos|AEK Athens|\n11|FW|Kostas Mitroglou|Atromitos|\n14|FW|Dimitris
+        Salpigidis|P.A.O.K|[](//#up) 45'' [](//#ball) 51''\n\n-----------------------------------------------------------------\n\n*
+        [](//#notes) **Prematch news:** Lineups are announced. Due to the weather
+        in Warsaw the retractable roof of the National Stadium will be closed for
+        the match. \n\n* [](//#notes) The opening ceremony was the typical awkward
+        cultural display. Now that it''s over, the crowd is clearly wondering what''s
+        keeping the players off the pitch.\n\n* [](//#notes) Here come the players.
+        Anthem time!\n\n* **01''** [](//#clock) Greece kick off and get EURO 2012
+        started!\n\n* **02'' [](//#whistle) POL** Sokratis fouled by Lewandowski\n\n*
+        **03'' [](//#whistle) POL [](//#whistle) GRE** Karagounis fouled by Polanski;
+        Lewandowski fouled by Gekas\n\n* **06'' [](//#flag) GRE** Gekas offside. Poland
+        getting the early pressure, but the Greeks defense holds thanks to some good
+        blocks.\n\n* **08'' [](//#whistle) GRE** B\u0142aszczykowski fouled by Papadopoulos\n\n*
+        **09'' [](//#whistle) POL** Papadopoulos fouled by Lewandowski\n\n* **11''
+        [](//#whistle) POL** Gekas fouled by Perquis. Yet another cheap foul near
+        midfield; Karagounis'' delivery to Gekas was flicked on, but missed the goal.\n\n*
+        **15''** Polish medical staff on the to treat Obraniak after a heavy but fair
+        challenge by Sokratis. Looks winded, not injured.\n\n* **17'' [](//#ball)
+        POL Robert LEWANDOWSKI** gets the first goal of the tournament. Cross comes
+        in from B\u0142aszczykowski on the right wing to the far post and powered
+        down and into the goal. **POL 1-0 GRE [video](http://www.101greatgoals.com/gvideos/10-robert-lewandowski-poland-v-greece/)**\n\n*
+        **21''** Avraam Papadopoulos down injured and Kyriakos Papadopoulos looks
+        ready to come on. But after some magic spray is applied to his left leg, Papadopoulos
+        rejoins the action, at least temporarily\n\n* **23'' [](//#whistle) GRE**
+        Boenisch fouled by Maniatis \n\n* **27'' [](//#whistle) GRE** Obraniak fouled
+        by Karagounis\n\n* **29'' [](//#whistle) POL** Ninis fouled by Boenisch *just*
+        outside the Polish penalty area\n\n* **30'' [](//#whistle) POL** Maniatis
+        fouled by Murawski\n\n* **34'' [](//#whistle) POL** Karagounis fouled by Obraniak
+        right in the centre of the Polish half\n\n* **35'' [](//#yellow) GRE** Sokratis
+        climbing all over the back of Lewandowski, certainly a foul but nothing obviously
+        deserving to go in the book.\n\n* **36'' [](//#sub) GRE** Papadopoulos for
+        Papadopoulos (Kyriakos for Avraam).\n\n* **44'' [](//#whistle) POL** Karagounis
+        fouled by Polanski \n\n* **45'' [](//#red) GRE** A second yellow for Sokratis
+        Papastathopoulos for a push on Lewandowski. Another harsh call. **[video](http://www.101greatgoals.com/gvideos/shocking-decision-sokratis-papastathopoulos-sent-greece-v-poland/)**\n\n*
+        **45+1''** [](//#clock) 3 minutes to be added.\n\n* **45+2'' [](//#yellow)
+        GRE** Possible handball by Poland in their penalty area (**[video](http://www.101greatgoals.com/gvideos/handball-box-penalty-damien-perquis-poland-v-greece/)**)
+        but nothing from the referee. Holebas fouls Lewandowski on the halfway line
+        as Poland clear the ball forward.\n\nPOL|HT Statistics|GRE\n:---|:--:|---:\n**1**|[](//#ball)
+        Goals|**0**\n8|Shots|2\n2|[](//#net) On Goal|0\n3|Corners|3\n10|[](//#whistle)
+        Fouls|7\n0|[](//#flag) Offsides|1\n0|[](//#yellow) Yellow|1\n0|[](//#red)
+        Red|1\n51%|Possession|49%\n\n* **45'' [](//#sub) GRE [](//#clock)** Salpingidis
+        comes on for Ninis at halftime; Poland start the second half.\n\n* **50''
+        [](//#whistle) POL** Karagounis fouled by Murawski\n\n* **51'' [](//#ball)
+        GRE Dimitris SALPINGIDIS** capitalizes on a disastrous error by the Polish
+        defensse. **POL 1-1 GRE [video](http://www.101greatgoals.com/gvideos/11-dimitris-salpigidis-greece-v-poland/)**\n\n*
+        **54'' [](//#yellow) GRE** Deliberate handball near the halfway line by Karagounis.\n\n*
+        **57'' [](//#whistle) GRE** Lewandowski fouled by Papadopoulos\n\n* **60''
+        [](//#whistle) GRE** Boenisch fouled by Salpingidis\n\n* **61'' [](//#whistle)
+        POL** Torossidis fouled by Rybus\n\n* **65'' [](//#whistle) POL** Torossidis
+        fouled by Rybus\n\n* **67'' [](//#whistle) POL [](//#sub) GRE** Gekas fouled
+        by Wasilewski; Fortounis for Gekas\n\n* **69'' [](//#red) POL [](//#sub) POL**
+        Szcz\u0119sny impedes Salpingidis and gets sent off, and it''s a penalty to
+        Greece; Tyto\u0144 for Rybus\n\n* **72''** Przemys\u0142aw Tyto\u0144 **saves**
+        Karagounis'' penalty. Score remains **POL 1-1 GRE**, and now it''s 10 v 10
+        **[video](http://www.101greatgoals.com/gvideos/wojciech-szczesny-sent-fouling-salpingidis-georgios-karagounis-penalty-saved-przemyslaw-tyton/)\n\n*
+        **74'' [](//#flag) GRE** Salpingidis thinks he''s scored but Fortounis was
+        offside before providing the cross.\n\n* **75'' [](//#whistle) GRE** Lewandowski
+        fouled by Holebas\n\n* **76'' [](//#whistle) GRE** B\u0142aszczykowski fouled
+        by Maniatis\n\n* **77'' [](//#whistle) POL** Holebas fouled by B\u0142aszczykowski\n\n*
+        **79'' [](//#whistle) POL** Maniatis fouled by B\u0142aszczykowski\n\n* **82''
+        [](//#whistle) GRE** Handball by Samaras\n\n* **86'' [](//#whistle) POL**
+        Torossidis fouled by Boenisch\n\n* **87'' [](//#whistle) POL** Samaras fouled
+        by Perquis\n\n* **88'' [](//#flag) GRE** Katsouranis offside\n\n* **89'' [](//#whistle)
+        POL** Karagounis fouled by B\u0142aszczykowski\n\n* **90'' [](//#clock) [](//#whistle)
+        GRE** 3 minutes to be added; B\u0142aszczykowski fouled by Samaras\n\n* **90+3''
+        [](//#clock) Full Time.** Final score  **POLAND 1-1 GREECE** Nothing like
+        a little controversy to start a tournament.\n\nPOL|FT Statistics|GRE\n:---|:--:|---:\n**1**|[](//#ball)
+        Goals|**1**\n17|Shots|8\n3|[](//#net) On Goal|2\n4|Corners|3\n23|[](//#whistle)
+        Fouls|16\n0|[](//#flag) Offsides|3\n0|[](//#yellow) Yellow|2\n1|[](//#red)
+        Red|1\n54%|Possession|46%", "likes": null, "secure_media": null, "link_flair_text":
+        null, "id": "uridy", "gilded": 0, "secure_media_embed": {}, "clicked": false,
+        "stickied": false, "author": "krusader42", "media": null, "score": 642, "approved_by":
+        null, "over_18": false, "hidden": false, "thumbnail": "", "subreddit_id":
+        "t5_2qi58", "edited": 1339178660.0, "link_flair_css_class": null, "author_flair_css_class":
+        "96", "downs": 149, "saved": false, "is_self": true, "permalink": "/r/soccer/comments/uridy/match_thread_euro_2012_group_a_poland_vs_greece/",
+        "name": "t3_uridy", "created": 1339164527.0, "url": "http://www.reddit.com/r/soccer/comments/uridy/match_thread_euro_2012_group_a_poland_vs_greece/",
+        "author_flair_text": "Montreal Impact", "title": "Match Thread: EURO 2012
+        - Group A - Poland vs Greece [18:00 CEST (16:00 UTC / 12:00 EDT)]", "created_utc":
+        1339160927.0, "ups": 791, "num_comments": 2348, "visited": false, "num_reports":
+        null, "distinguished": null}}, {"kind": "t3", "data": {"domain": "self.soccer",
+        "banned_by": null, "media_embed": {}, "subreddit": "soccer", "selftext_html":
+        "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;h2&gt;SCORE UPDATE 1-1 at
+        58&amp;#39;&lt;/h2&gt;\n\n&lt;h2&gt;FINAL SCORE 1-1&lt;/h2&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;Probable
+        starting line-up&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Poland (4-2-3-1): Tyton;
+        Piszczek, Wasilewski, Perquis, Boenisch; Murawski, Polanski; Blaszczykowski,
+        Obraniak, Rybus; Lewandowski&lt;/p&gt;\n\n&lt;p&gt;Russia (4-3-3): Malafeev;
+        Anyukov, Ignashevich, Berezutskiy, Zhirkov; Denisov, Shirokov, Zyryanov; Dzagoev,
+        Arshavin, Kerzhakov&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;Stream
+        from the comments&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;(WithAnO)&lt;/strong&gt;
+        &lt;a href=\"http://www.thefirstrow.eu/watch/126442/1/watch-poland-vs-russia.html\"&gt;http://www.thefirstrow.eu/watch/126442/1/watch-poland-vs-russia.html&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;(criss_)&lt;/strong&gt;
+        &lt;a href=\"http://euro2012.tvp.pl/\"&gt;http://euro2012.tvp.pl/&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!--
+        SC_ON --&gt;", "selftext": "##SCORE UPDATE 1-1 at 58''##\n##FINAL SCORE 1-1
+        ##\n___________________________________________________________\n**Probable
+        starting line-up**\n\nPoland (4-2-3-1): Tyton; Piszczek, Wasilewski, Perquis,
+        Boenisch; Murawski, Polanski; Blaszczykowski, Obraniak, Rybus; Lewandowski\n\nRussia
+        (4-3-3): Malafeev; Anyukov, Ignashevich, Berezutskiy, Zhirkov; Denisov, Shirokov,
+        Zyryanov; Dzagoev, Arshavin, Kerzhakov\n___________________________________________________________\n\n**Stream
+        from the comments**\n\n**(WithAnO)** http://www.thefirstrow.eu/watch/126442/1/watch-poland-vs-russia.html\n\n**(criss_)**
+        http://euro2012.tvp.pl/\n", "likes": null, "secure_media": null, "link_flair_text":
+        null, "id": "uy42d", "gilded": 0, "secure_media_embed": {}, "clicked": false,
+        "stickied": false, "author": "grizz311", "media": null, "score": 228, "approved_by":
+        null, "over_18": false, "hidden": false, "thumbnail": "", "subreddit_id":
+        "t5_2qi58", "edited": 1339533646.0, "link_flair_css_class": null, "author_flair_css_class":
+        null, "downs": 42, "saved": false, "is_self": true, "permalink": "/r/soccer/comments/uy42d/match_thread_poland_russia/",
+        "name": "t3_uy42d", "created": 1339521101.0, "url": "http://www.reddit.com/r/soccer/comments/uy42d/match_thread_poland_russia/",
+        "author_flair_text": null, "title": "Match Thread: Poland - Russia", "created_utc":
+        1339517501.0, "ups": 270, "num_comments": 1020, "visited": false, "num_reports":
+        null, "distinguished": null}}, {"kind": "t3", "data": {"domain": "self.europe",
+        "banned_by": null, "media_embed": {}, "subreddit": "europe", "selftext_html":
+        "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;This is the nineteenth
+        installment of the series &amp;quot;What do you know about ...&amp;quot; Goal
+        is to have community members voice their knowledge and opinion about the states
+        covered in the series. Ultimately I wish to have threads about all the regions
+        in Europe.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://en.wikipedia.org/wiki/Poland\"&gt;Poland&lt;/a&gt;
+        has a long history in Europe, helping stave off the Ottomans, being invaded
+        and occupied and now the butt of many jokes in polandballs. So what do you
+        know about Poland?&lt;/p&gt;\n\n&lt;p&gt;Next installment will be posted on
+        Friday. If you have missed previous installments, here is a &lt;a href=\"http://www.reddit.com/r/europe/comments/1g16kp/index_of_the_series_what_do_you_know_about/\"&gt;list
+        of them&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "selftext":
+        "This is the nineteenth installment of the series \"What do you know about
+        ...\" Goal is to have community members voice their knowledge and opinion
+        about the states covered in the series. Ultimately I wish to have threads
+        about all the regions in Europe.\n\n[Poland](http://en.wikipedia.org/wiki/Poland)
+        has a long history in Europe, helping stave off the Ottomans, being invaded
+        and occupied and now the butt of many jokes in polandballs. So what do you
+        know about Poland?\n\nNext installment will be posted on Friday. If you have
+        missed previous installments, here is a [list of them](http://www.reddit.com/r/europe/comments/1g16kp/index_of_the_series_what_do_you_know_about/).",
+        "likes": null, "secure_media": null, "link_flair_text": null, "id": "1j9cwy",
+        "gilded": 0, "secure_media_embed": {}, "clicked": false, "stickied": false,
+        "author": "Taenk", "media": null, "score": 303, "approved_by": null, "over_18":
+        false, "hidden": false, "thumbnail": "", "subreddit_id": "t5_2qh4j", "edited":
+        false, "link_flair_css_class": null, "author_flair_css_class": "GERM", "downs":
+        64, "saved": false, "is_self": true, "permalink": "/r/europe/comments/1j9cwy/series_what_do_you_know_about_poland/",
+        "name": "t3_1j9cwy", "created": 1375078898.0, "url": "http://www.reddit.com/r/europe/comments/1j9cwy/series_what_do_you_know_about_poland/",
+        "author_flair_text": "For a democratic, European confederation", "title":
+        "[Series] What do you know about ... Poland?", "created_utc": 1375075298.0,
+        "ups": 367, "num_comments": 765, "visited": false, "num_reports": null, "distinguished":
+        null}}, {"kind": "t3", "data": {"domain": "self.soccer", "banned_by": null,
+        "media_embed": {}, "subreddit": "soccer", "selftext_html": "&lt;!-- SC_OFF
+        --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;em&gt;Wembley Stadium, London.
+        Kick off: 20:00&lt;/em&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;Welcome one,
+        welcome all to the Match Thread for England vs Poland. It is a chance for
+        Roy Hodgson&amp;#39;s Brave Lions to qualify for Brazil 2014.&lt;/p&gt;\n\n&lt;p&gt;Here
+        are some videos to get you all in the mood:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.youtube.com/watch?v=yLph6ePNkGQ\"&gt;Where
+        on earth are you from? We&amp;#39;re from Ing-er-land. Where you come from,
+        do you put the kettle on?&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.youtube.com/watch?v=RJqimlFcJsM\"&gt;Jules
+        Rimet still gleaming&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.youtube.com/watch?v=oyoy2_7FegI\"&gt;They&amp;#39;ll
+        keep on getting bad results &lt;sup&gt;getting&lt;/sup&gt; &lt;sup&gt;bad&lt;/sup&gt;
+        &lt;sup&gt;results&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.youtube.com/watch?v=q33sNrncVmI\"&gt;Sven,
+        Sven, Sven&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;And some pictures:&lt;/p&gt;\n\n&lt;p&gt;&lt;a
+        href=\"http://i.imgur.com/uS053g9.jpg\"&gt;MOORE&lt;/a&gt;; &lt;a href=\"http://i.imgur.com/sFQ9rd3.jpg\"&gt;BUTCHER&lt;/a&gt;;
+        &lt;a href=\"http://i.imgur.com/pmBrwVg.jpg\"&gt;BECKHAM&lt;/a&gt;; &lt;a
+        href=\"http://i.imgur.com/LTuBOC0.jpg\"&gt;BATTY&lt;/a&gt;; &lt;a href=\"http://i.imgur.com/ISawcdr.jpg\"&gt;NUGENT&lt;/a&gt;;
+        &lt;a href=\"http://i.imgur.com/MV1dE3h.jpg\"&gt;LADS&lt;/a&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;LINEUPS&lt;/strong&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;England&lt;/strong&gt;:
+        Hart, Smalling, Cahill, Jagielka, Baines, Carrick, Gerrard, Townsend, Rooney,
+        Welbeck, Sturridge. &lt;/p&gt;\n\n&lt;p&gt;Subs: Ruddy, Jones, Gibbs, Wilshere,
+        Lampard, Milner, Barkley, Defoe, Sterling, Lambert, Forster.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Poland&lt;/strong&gt;:
+        Szczesny, Wojtkowiak, Jedrzejczyk, Glik, Celeban, Blaszczykowski, Mierzejewski,
+        Krychowiak, Sobota, Mariusz Lewandowski, Robert Lewandowski. &lt;/p&gt;\n\n&lt;p&gt;Subs:
+        Boruc, Wasilewski, Jodlowiec, Polanski, Zielinski, Klich, Wawrzyniak, Peszko,
+        Sobiech, Rzezniczak, Fabianski.&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;STREAMS:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a
+        href=\"http://www.wiziwig.tv/broadcast.php?matchid=224269&amp;amp;part=sports\"&gt;Wiziwig&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a
+        href=\"http://www.itv.com/sport/\"&gt;ITV&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a
+        href=\"http://www.ustream.tv/channel/mario-kart-3d/theater\"&gt;/u/NGU-Ben
+        MEGA STREAM&lt;/a&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;9 mins: Poland
+        break from an England corner. Lewandowski&amp;#39;s shot straight at Hart
+        however.&lt;/p&gt;\n\n&lt;p&gt;23 mins: Poland break from another England
+        corner. Lewandowski this time dragging his shot wide.&lt;/p&gt;\n\n&lt;p&gt;27
+        mins: Townsend hits the woodwork! Fantastic shot from 25 yards.&lt;/p&gt;\n\n&lt;p&gt;32
+        mins: Constant England pressure leads to a corner. Welbeck blazes wide from
+        five yards.&lt;/p&gt;\n\n&lt;p&gt;41 mins: &lt;strong&gt;GOAL: 1-0 ENGLAND&lt;/strong&gt;
+        Fantastic ball by Baines, Rooney heads it in to make it 1-0.&lt;/p&gt;\n\n&lt;p&gt;55
+        mins: Nearly an own goal by Jedrzejczyk from a Gerrard ball.&lt;/p&gt;\n\n&lt;p&gt;61
+        mins: Good save by Joe Hart after Lewandowski got in behind the defence again.&lt;/p&gt;\n\n&lt;p&gt;69
+        mins: Rooney forces a fantastic save from Szczesny on a curling effort from
+        the edge of the area.&lt;/p&gt;\n\n&lt;p&gt;78 mins: Sturridge cuts inside
+        on his right foot and brings out another good save from Szczesny. We are nearly
+        in squeaky bum time.&lt;/p&gt;\n\n&lt;p&gt;89 mins: &lt;strong&gt;GOAL 2-0
+        ENGLAND&lt;/strong&gt; Sir Steven Gerrard seals the deal and England are going
+        to Brazil.&lt;/p&gt;\n\n&lt;p&gt;FULL TIME: ENGLAND WIN 2-0 AND HAVE QUALIFIED
+        FOR THE WORLD CUP.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "selftext":
+        "*Wembley Stadium, London. Kick off: 20:00*\n____________________________________________\n\nWelcome
+        one, welcome all to the Match Thread for England vs Poland. It is a chance
+        for Roy Hodgson''s Brave Lions to qualify for Brazil 2014.\n\nHere are some
+        videos to get you all in the mood:\n\n[Where on earth are you from? We''re
+        from Ing-er-land. Where you come from, do you put the kettle on?](http://www.youtube.com/watch?v=yLph6ePNkGQ)\n\n[Jules
+        Rimet still gleaming](http://www.youtube.com/watch?v=RJqimlFcJsM)\n\n[They''ll
+        keep on getting bad results ^getting ^bad ^results](http://www.youtube.com/watch?v=oyoy2_7FegI)\n\n[Sven,
+        Sven, Sven](http://www.youtube.com/watch?v=q33sNrncVmI)\n\nAnd some pictures:\n\n[MOORE](http://i.imgur.com/uS053g9.jpg);
+        [BUTCHER](http://i.imgur.com/sFQ9rd3.jpg); [BECKHAM](http://i.imgur.com/pmBrwVg.jpg);
+        [BATTY](http://i.imgur.com/LTuBOC0.jpg); [NUGENT](http://i.imgur.com/ISawcdr.jpg);
+        [LADS](http://i.imgur.com/MV1dE3h.jpg)\n\n\n_____________________\n**LINEUPS**\n_____________________\n**England**:
+        Hart, Smalling, Cahill, Jagielka, Baines, Carrick, Gerrard, Townsend, Rooney,
+        Welbeck, Sturridge. \n\nSubs: Ruddy, Jones, Gibbs, Wilshere, Lampard, Milner,
+        Barkley, Defoe, Sterling, Lambert, Forster.\n\n**Poland**: Szczesny, Wojtkowiak,
+        Jedrzejczyk, Glik, Celeban, Blaszczykowski, Mierzejewski, Krychowiak, Sobota,
+        Mariusz Lewandowski, Robert Lewandowski. \n\nSubs: Boruc, Wasilewski, Jodlowiec,
+        Polanski, Zielinski, Klich, Wawrzyniak, Peszko, Sobiech, Rzezniczak, Fabianski.\n___________________________________\n**STREAMS:**\n\n[Wiziwig](http://www.wiziwig.tv/broadcast.php?matchid=224269&amp;part=sports)\n\n[ITV](http://www.itv.com/sport/)\n\n[/u/NGU-Ben
+        MEGA STREAM](http://www.ustream.tv/channel/mario-kart-3d/theater)\n\n_____________________________________\n\n9
+        mins: Poland break from an England corner. Lewandowski''s shot straight at
+        Hart however.\n\n23 mins: Poland break from another England corner. Lewandowski
+        this time dragging his shot wide.\n\n27 mins: Townsend hits the woodwork!
+        Fantastic shot from 25 yards.\n\n32 mins: Constant England pressure leads
+        to a corner. Welbeck blazes wide from five yards.\n\n41 mins: **GOAL: 1-0
+        ENGLAND** Fantastic ball by Baines, Rooney heads it in to make it 1-0.\n\n55
+        mins: Nearly an own goal by Jedrzejczyk from a Gerrard ball.\n\n61 mins: Good
+        save by Joe Hart after Lewandowski got in behind the defence again.\n\n69
+        mins: Rooney forces a fantastic save from Szczesny on a curling effort from
+        the edge of the area.\n\n78 mins: Sturridge cuts inside on his right foot
+        and brings out another good save from Szczesny. We are nearly in squeaky bum
+        time.\n\n89 mins: **GOAL 2-0 ENGLAND** Sir Steven Gerrard seals the deal and
+        England are going to Brazil.\n\nFULL TIME: ENGLAND WIN 2-0 AND HAVE QUALIFIED
+        FOR THE WORLD CUP.", "likes": null, "secure_media": null, "link_flair_text":
+        null, "id": "1oiors", "gilded": 0, "secure_media_embed": {}, "clicked": false,
+        "stickied": false, "author": "LudekMiklosko", "media": null, "score": 260,
+        "approved_by": null, "over_18": false, "hidden": false, "thumbnail": "", "subreddit_id":
+        "t5_2qi58", "edited": 1381870156.0, "link_flair_css_class": null, "author_flair_css_class":
+        "23", "downs": 108, "saved": false, "is_self": true, "permalink": "/r/soccer/comments/1oiors/match_thread_england_v_poland_2000_ko/",
+        "name": "t3_1oiors", "created": 1381866841.0, "url": "http://www.reddit.com/r/soccer/comments/1oiors/match_thread_england_v_poland_2000_ko/",
+        "author_flair_text": "England", "title": "Match Thread: England v Poland (20:00
+        KO)", "created_utc": 1381863241.0, "ups": 368, "num_comments": 1553, "visited":
+        false, "num_reports": null, "distinguished": null}}, {"kind": "t3", "data":
+        {"domain": "self.leagueoflegends", "banned_by": null, "media_embed": {}, "subreddit":
+        "leagueoflegends", "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a
+        href=\"http://tmdwn.com/1tjr\"&gt;Countdown&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a
+        href=\"http://de.esl.tv/channel/esl-poland/\"&gt;Stream&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a
+        href=\"http://de.esl.tv/channel/esl-poland2/\"&gt;Rerun Stream&lt;/a&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;a
+        href=\"http://tournaments.leagueoflegends.com/ecc-poland\"&gt;Riot Portal&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a
+        href=\"https://elobuff.com/events/2012-ecc-poland\"&gt;EloBuff Portal&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a
+        href=\"http://www.facebook.com/media/set/?set=a.10151960768570556.881888.82061850555&amp;amp;type=1\"&gt;Pictures
+        from Event - Official League Of Legends Facebook Page&lt;/a&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;a
+        href=\"http://www.leaguepedia.com/wiki/European_Challenger_Circuit:_Poland/Team_Rosters\"&gt;Team
+        Rosters&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.leaguepedia.com/wiki/European_Challenger_Circuit:_Poland/Picks_and_Bans\"&gt;Picks
+        &amp;amp; Bans&lt;/a&gt; [Updated constantly, press Shift+F5 if you feel it
+        is outdated]&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.leaguepedia.com/wiki/European_Challenger_Circuit:_Poland\"&gt;Brackets&lt;/a&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;Prize
+        Pool&lt;/strong&gt;&lt;/p&gt;\n\n&lt;table&gt;&lt;thead&gt;\n&lt;tr&gt;\n&lt;th&gt;Place&lt;/th&gt;\n&lt;th&gt;Team&lt;/th&gt;\n&lt;th&gt;Prize&lt;/th&gt;\n&lt;th&gt;Circuit
+        Points&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td&gt;1st&lt;/td&gt;\n&lt;td&gt;TBD&lt;/td&gt;\n&lt;td&gt;$
+        15,000&lt;/td&gt;\n&lt;td&gt;+400&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;2nd&lt;/td&gt;\n&lt;td&gt;TBD&lt;/td&gt;\n&lt;td&gt;$
+        10,000&lt;/td&gt;\n&lt;td&gt;+200&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;3rd&lt;/td&gt;\n&lt;td&gt;TBD&lt;/td&gt;\n&lt;td&gt;$
+        5,000&lt;/td&gt;\n&lt;td&gt;+125&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;4th&lt;/td&gt;\n&lt;td&gt;TBD&lt;/td&gt;\n&lt;td&gt;$
+        2,800&lt;/td&gt;\n&lt;td&gt;+75&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;5-6th&lt;/td&gt;\n&lt;td&gt;&lt;a
+        href=\"http://www.leaguepedia.com/wiki/Team_Acer.PL\"&gt;Team Acer.PL&lt;/a&gt;&lt;/td&gt;\n&lt;td&gt;$
+        2,000&lt;/td&gt;\n&lt;td&gt;+50&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;5-6th&lt;/td&gt;\n&lt;td&gt;&lt;a
+        href=\"http://www.leaguepedia.com/wiki/EloHell.net\"&gt;EloHell.net&lt;/a&gt;&lt;/td&gt;\n&lt;td&gt;$
+        2,000&lt;/td&gt;\n&lt;td&gt;+50&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;7-8th&lt;/td&gt;\n&lt;td&gt;&lt;a
+        href=\"http://www.leaguepedia.com/wiki/Meet_Your_Makers\"&gt;Meet Your Makers&lt;/a&gt;&lt;/td&gt;\n&lt;td&gt;$
+        1,600&lt;/td&gt;\n&lt;td&gt;+50&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;7-8th&lt;/td&gt;\n&lt;td&gt;&lt;a
+        href=\"http://www.leaguepedia.com/wiki/X6tence\"&gt;OceloteWorld&lt;/a&gt;&lt;/td&gt;\n&lt;td&gt;$
+        1,600&lt;/td&gt;\n&lt;td&gt;+50&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;&lt;/table&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;Day
+        1 Results&lt;/strong&gt;&lt;/p&gt;\n\n&lt;table&gt;&lt;thead&gt;\n&lt;tr&gt;\n&lt;th&gt;Group
+        A&lt;/th&gt;\n&lt;th&gt;W&lt;/th&gt;\n&lt;th&gt;L&lt;/th&gt;\n&lt;th&gt;-&lt;/th&gt;\n&lt;th&gt;Group
+        B&lt;/th&gt;\n&lt;th&gt;W&lt;/th&gt;\n&lt;th&gt;L&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td&gt;&lt;strong&gt;&lt;a
+        href=\"http://www.leaguepedia.com/wiki/Team_Curse_EU\"&gt;Curse.eu&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;\n&lt;td&gt;2&lt;/td&gt;\n&lt;td&gt;1&lt;/td&gt;\n&lt;td&gt;&lt;/td&gt;\n&lt;td&gt;&lt;strong&gt;&lt;a
+        href=\"http://www.leaguepedia.com/wiki/CLG_EU\"&gt;CLG EU&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;\n&lt;td&gt;3&lt;/td&gt;\n&lt;td&gt;0&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;&lt;strong&gt;&lt;a
+        href=\"http://www.leaguepedia.com/wiki/SK_Gaming\"&gt;SK Gaming&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;\n&lt;td&gt;2&lt;/td&gt;\n&lt;td&gt;1&lt;/td&gt;\n&lt;td&gt;&lt;/td&gt;\n&lt;td&gt;&lt;strong&gt;&lt;a
+        href=\"http://www.leaguepedia.com/wiki/Moscow_Five\"&gt;Moscow Five&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;\n&lt;td&gt;2&lt;/td&gt;\n&lt;td&gt;1&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;&lt;a
+        href=\"http://www.leaguepedia.com/wiki/Team_Acer.PL\"&gt;Team Acer.PL&lt;/a&gt;&lt;/td&gt;\n&lt;td&gt;1&lt;/td&gt;\n&lt;td&gt;2&lt;/td&gt;\n&lt;td&gt;&lt;/td&gt;\n&lt;td&gt;&lt;a
+        href=\"http://www.leaguepedia.com/wiki/EloHell.net\"&gt;EloHell.net&lt;/a&gt;&lt;/td&gt;\n&lt;td&gt;1&lt;/td&gt;\n&lt;td&gt;2&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;&lt;a
+        href=\"http://www.leaguepedia.com/wiki/Meet_Your_Makers\"&gt;Meet Your Makers&lt;/a&gt;&lt;/td&gt;\n&lt;td&gt;1&lt;/td&gt;\n&lt;td&gt;2&lt;/td&gt;\n&lt;td&gt;&lt;/td&gt;\n&lt;td&gt;&lt;a
+        href=\"http://www.leaguepedia.com/wiki/X6tence\"&gt;OceloteWorld&lt;/a&gt;&lt;/td&gt;\n&lt;td&gt;0&lt;/td&gt;\n&lt;td&gt;3&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;&lt;/table&gt;\n\n&lt;p&gt;&lt;strong&gt;Bold&lt;/strong&gt;
+        proceed to Day 2&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;Day 2
+        Schedule&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Format: Best of
+        3&lt;/strong&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;del&gt;Semi-Final
+        #1: &lt;a href=\"http://www.leaguepedia.com/wiki/Team_Curse_EU\"&gt;Team Curse
+        EU&lt;/a&gt; vs &lt;a href=\"http://www.leaguepedia.com/wiki/Moscow_Five\"&gt;Moscow
+        5&lt;/a&gt;&lt;/del&gt;&lt;/p&gt;\n\n&lt;p&gt;Results: &lt;a href=\"/spoiler\"&gt;~M5
+        wins! 2-0&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;10:00 CEST // 01:00
+        PDT // 17:00 KST&lt;/strong&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;del&gt;Semi-Final
+        #2: &lt;a href=\"http://www.leaguepedia.com/wiki/SK_Gaming\"&gt;SK Gaming&lt;/a&gt;
+        vs &lt;a href=\"http://www.leaguepedia.com/wiki/CLG_EU\"&gt;CLG EU&lt;/a&gt;&lt;/del&gt;&lt;/p&gt;\n\n&lt;p&gt;Results:
+        &lt;a href=\"/spoiler\"&gt;CLG wins! 2-1&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;12:40
+        CEST // 03:40 PDT // 19:40 KST&lt;/strong&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;del&gt;3rd
+        Place: &lt;a href=\"/spoiler\"&gt;CRS&lt;/a&gt; vs &lt;a href=\"/spoiler\"&gt;~SK&lt;/a&gt;&lt;/del&gt;&lt;/p&gt;\n\n&lt;p&gt;Results:
+        &lt;a href=\"/spoiler\"&gt;~SK wins! 2-1&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;15:40
+        CEST // 06:40 PDT // 22:40 KST&lt;/strong&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;del&gt;Grand
+        Final: &lt;a href=\"/spoiler\"&gt;~M5&lt;/a&gt; vs &lt;a href=\"/spoiler\"&gt;CLG&lt;/a&gt;&lt;/del&gt;&lt;/p&gt;\n\n&lt;p&gt;Results:
+        &lt;a href=\"/spoiler\"&gt;~M5 wins! 2-0&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;18:20
+        CEST // 09:20 PDT // 1:20 KST&lt;/strong&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;Commentators&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;p&gt;Joe
+        Miller - &lt;a href=\"http://www.leaguepedia.com/wiki/Joe_Miller\"&gt;Leaguepedia&lt;/a&gt;
+        |  &lt;a href=\"http://www.twitter.com/Joe_Miller\"&gt;Twitter @Joe_Miller&lt;/a&gt;
+        | &lt;a href=\"http://www.facebook.com/joemillerofficial\"&gt;Facebook&lt;/a&gt;
+        | &lt;a href=\"http://www.youtube.com/user/JoeMillerHD\"&gt;Youtube&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Deman
+        - &lt;a href=\"http://www.leaguepedia.com/wiki/Deman\"&gt;Leaguepedia&lt;/a&gt;
+        | &lt;a href=\"http://www.twitter.com/qvDeman\"&gt;Twitter @qvDeman&lt;/a&gt;
+        |  &lt;a href=\"http://www.facebook.com/DemanHD\"&gt;Facebook&lt;/a&gt; |  &lt;a
+        href=\"http://www.youtube.com/user/4Deman\"&gt;Youtube&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Riot
+        ZenonTheStoic - &lt;a href=\"http://www.leaguepedia.com/wiki/Zenon\"&gt;Leaguepedia&lt;/a&gt;
+        | &lt;a href=\"http://www.twitter.com/danielzklein\"&gt;Twitter @DanielZKlein&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Riot
+        Jatt - &lt;a href=\"http://www.leaguepedia.com/wiki/Jatt\"&gt;Leaguepedia&lt;/a&gt;
+        | &lt;a href=\"http://www.twitter.com/RiotJatt\"&gt;Twitter @RiotJatt&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Riot
+        Jaws - &lt;a href=\"http://www.twitter.com/riotjaws\"&gt;Twitter @RiotJaws&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;a
+        href=\"http://www.twitter.com/alexpenn\"&gt;My Twitter @alexpenn&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Mad
+        props to &lt;a href=\"/u/zoar-\"&gt;/u/zoar-&lt;/a&gt; for doing yesterdays
+        post!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "selftext": "[Countdown](http://tmdwn.com/1tjr)\n\n[Stream](http://de.esl.tv/channel/esl-poland/)\n\n[Rerun
+        Stream](http://de.esl.tv/channel/esl-poland2/)\n\n\n---\n\n[Riot Portal](http://tournaments.leagueoflegends.com/ecc-poland)\n\n[EloBuff
+        Portal](https://elobuff.com/events/2012-ecc-poland)\n\n[Pictures from Event
+        - Official League Of Legends Facebook Page](http://www.facebook.com/media/set/?set=a.10151960768570556.881888.82061850555&amp;type=1)\n\n---\n\n[Team
+        Rosters](http://www.leaguepedia.com/wiki/European_Challenger_Circuit:_Poland/Team_Rosters)\n\n[Picks
+        &amp; Bans](http://www.leaguepedia.com/wiki/European_Challenger_Circuit:_Poland/Picks_and_Bans)
+        [Updated constantly, press Shift+F5 if you feel it is outdated]\n\n[Brackets](http://www.leaguepedia.com/wiki/European_Challenger_Circuit:_Poland)\n\n---\n\n**Prize
+        Pool**\n\n|Place|Team|Prize|Circuit Points|\n|-|-|-|-|\n|1st|TBD|$ 15,000|+400|\n|2nd|TBD|$
+        10,000|+200|\n|3rd|TBD|$ 5,000|+125|\n|4th|TBD|$ 2,800|+75|\n|5-6th|[Team
+        Acer.PL](http://www.leaguepedia.com/wiki/Team_Acer.PL)|$ 2,000|+50|\n|5-6th|[EloHell.net](http://www.leaguepedia.com/wiki/EloHell.net)|$
+        2,000|+50|\n|7-8th|[Meet Your Makers](http://www.leaguepedia.com/wiki/Meet_Your_Makers)|$
+        1,600|+50|\n|7-8th|[OceloteWorld](http://www.leaguepedia.com/wiki/X6tence)|$
+        1,600|+50|\n\n---\n\n**Day 1 Results**\n\n|Group A|W|L|-|Group B|W|L|\n|-|-|-|-|-|-|-|\n|**[Curse.eu](http://www.leaguepedia.com/wiki/Team_Curse_EU)**|2|1||**[CLG
+        EU](http://www.leaguepedia.com/wiki/CLG_EU)**|3|0|\n|**[SK Gaming](http://www.leaguepedia.com/wiki/SK_Gaming)**|2|1||**[Moscow
+        Five](http://www.leaguepedia.com/wiki/Moscow_Five)**|2|1|\n|[Team Acer.PL](http://www.leaguepedia.com/wiki/Team_Acer.PL)|1|2||[EloHell.net](http://www.leaguepedia.com/wiki/EloHell.net)|1|2|\n|[Meet
+        Your Makers](http://www.leaguepedia.com/wiki/Meet_Your_Makers)|1|2||[OceloteWorld](http://www.leaguepedia.com/wiki/X6tence)|0|3|\n\n**Bold**
+        proceed to Day 2\n\n---\n\n**Day 2 Schedule**\n\n**Format: Best of 3**\n\n---\n\n~~Semi-Final
+        #1: [Team Curse EU](http://www.leaguepedia.com/wiki/Team_Curse_EU) vs [Moscow
+        5](http://www.leaguepedia.com/wiki/Moscow_Five)~~\n\nResults: [~M5 wins! 2-0](/spoiler)\n\n**10:00
+        CEST // 01:00 PDT // 17:00 KST**\n\n---\n\n~~Semi-Final #2: [SK Gaming](http://www.leaguepedia.com/wiki/SK_Gaming)
+        vs [CLG EU](http://www.leaguepedia.com/wiki/CLG_EU)~~\n\nResults: [CLG wins!
+        2-1](/spoiler)\n\n**12:40 CEST // 03:40 PDT // 19:40 KST**\n\n---\n\n~~3rd
+        Place: [CRS](/spoiler) vs [~SK](/spoiler)~~\n\nResults: [~SK wins! 2-1](/spoiler)\n\n**15:40
+        CEST // 06:40 PDT // 22:40 KST**\n\n---\n\n~~Grand Final: [~M5](/spoiler)
+        vs [CLG](/spoiler)~~\n\nResults: [~M5 wins! 2-0](/spoiler)\n\n**18:20 CEST
+        // 09:20 PDT // 1:20 KST**\n\n---\n\n**Commentators**\n\n* Joe Miller - [Leaguepedia](http://www.leaguepedia.com/wiki/Joe_Miller)
+        |  [Twitter @Joe_Miller](http://www.twitter.com/Joe_Miller) | [Facebook](http://www.facebook.com/joemillerofficial)
+        | [Youtube](http://www.youtube.com/user/JoeMillerHD)\n\n* Deman - [Leaguepedia](http://www.leaguepedia.com/wiki/Deman)
+        | [Twitter @qvDeman](http://www.twitter.com/qvDeman) |  [Facebook](http://www.facebook.com/DemanHD)
+        |  [Youtube](http://www.youtube.com/user/4Deman)\n\n* Riot ZenonTheStoic -
+        [Leaguepedia](http://www.leaguepedia.com/wiki/Zenon) | [Twitter @DanielZKlein](http://www.twitter.com/danielzklein)\n\n*
+        Riot Jatt - [Leaguepedia](http://www.leaguepedia.com/wiki/Jatt) | [Twitter
+        @RiotJatt](http://www.twitter.com/RiotJatt)\n\n* Riot Jaws - [Twitter @RiotJaws](http://www.twitter.com/riotjaws)\n\n---\n\n[My
+        Twitter @alexpenn](http://www.twitter.com/alexpenn)\n\nMad props to /u/zoar-
+        for doing yesterdays post!", "likes": null, "secure_media": null, "link_flair_text":
+        null, "id": "xbxb5", "gilded": 0, "secure_media_embed": {}, "clicked": false,
+        "stickied": false, "author": "alexpenn", "media": null, "score": 247, "approved_by":
+        null, "over_18": false, "hidden": false, "thumbnail": "self", "subreddit_id":
+        "t5_2rfxx", "edited": 1343596603.0, "link_flair_css_class": null, "author_flair_css_class":
+        "coast", "downs": 55, "saved": false, "is_self": true, "permalink": "/r/leagueoflegends/comments/xbxb5/in_3_hours_ecc_poland_day_2_begins_crs_eu_clg_eu/",
+        "name": "t3_xbxb5", "created": 1343542249.0, "url": "http://www.reddit.com/r/leagueoflegends/comments/xbxb5/in_3_hours_ecc_poland_day_2_begins_crs_eu_clg_eu/",
+        "author_flair_text": "[Zarox] (NA)", "title": "In 3 hours ECC: Poland [Day
+        2] begins! (Crs EU, CLG EU, M5, and SK) [Schedule/Discussion]", "created_utc":
+        1343538649.0, "ups": 302, "num_comments": 1163, "visited": false, "num_reports":
+        null, "distinguished": null}}, {"kind": "t3", "data": {"domain": "self.poland",
+        "banned_by": null, "media_embed": {}, "subreddit": "poland", "selftext_html":
+        "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi guys! Dozens of
+        questions are asked by our guests visiting specific cities and I feel like
+        those questions could have not been asked.&lt;/p&gt;\n\n&lt;p&gt;I think r/Poland
+        lacks thread with some basic tips for our guests.&lt;/p&gt;\n\n&lt;p&gt;So
+        if you&amp;#39;re polish - &lt;strong&gt;feel free to add some tips here&lt;/strong&gt;,
+        and if you&amp;#39;re visitor - &lt;strong&gt;feel free to ask&lt;/strong&gt;
+        (please ask them separately)!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "selftext": "Hi guys! Dozens of questions are asked by our guests visiting
+        specific cities and I feel like those questions could have not been asked.\n\nI
+        think r/Poland lacks thread with some basic tips for our guests.\n\nSo if
+        you''re polish - **feel free to add some tips here**, and if you''re visitor
+        - **feel free to ask** (please ask them separately)!", "likes": null, "secure_media":
+        null, "link_flair_text": null, "id": "kxe4v", "gilded": 0, "secure_media_embed":
+        {}, "clicked": false, "stickied": false, "author": "wojtekmaj", "media": null,
+        "score": 36, "approved_by": null, "over_18": false, "hidden": false, "thumbnail":
+        "", "subreddit_id": "t5_2qkmn", "edited": true, "link_flair_css_class": null,
+        "author_flair_css_class": "MP", "downs": 2, "saved": false, "is_self": true,
+        "permalink": "/r/poland/comments/kxe4v/all_you_need_to_know_when_visiting_poland/",
+        "name": "t3_kxe4v", "created": 1317467858.0, "url": "http://www.reddit.com/r/poland/comments/kxe4v/all_you_need_to_know_when_visiting_poland/",
+        "author_flair_text": "Ma\u0142opolskie", "title": "All you need to know when
+        visiting Poland", "created_utc": 1317464258.0, "ups": 38, "num_comments":
+        69, "visited": false, "num_reports": null, "distinguished": null}}, {"kind":
+        "t3", "data": {"domain": "self.poland", "banned_by": null, "media_embed":
+        {}, "subreddit": "poland", "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div
+        class=\"md\"&gt;&lt;p&gt;Hey everyone! I am an American that has been trying
+        to keep up with the situation occurring with Crimea and Russia. Some of the
+        reports I have been reading are saying Poland is worried that Russia is trying
+        to get to them through Crimea amongst many other things. &lt;/p&gt;\n\n&lt;p&gt;With
+        that being said I was wondering what is actually occurring and what is just
+        propaganda from the media. If anybody has any insight please feel free to
+        comment!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "selftext": "Hey everyone!
+        I am an American that has been trying to keep up with the situation occurring
+        with Crimea and Russia. Some of the reports I have been reading are saying
+        Poland is worried that Russia is trying to get to them through Crimea amongst
+        many other things. \n\nWith that being said I was wondering what is actually
+        occurring and what is just propaganda from the media. If anybody has any insight
+        please feel free to comment!", "likes": null, "secure_media": null, "link_flair_text":
+        null, "id": "1zgg3c", "gilded": 0, "secure_media_embed": {}, "clicked": false,
+        "stickied": false, "author": "Nicoleee12345689", "media": null, "score": 44,
+        "approved_by": null, "over_18": false, "hidden": false, "thumbnail": "", "subreddit_id":
+        "t5_2qkmn", "edited": false, "link_flair_css_class": null, "author_flair_css_class":
+        null, "downs": 5, "saved": false, "is_self": true, "permalink": "/r/poland/comments/1zgg3c/how_are_people_in_poland_reacting_to_the/",
+        "name": "t3_1zgg3c", "created": 1393874154.0, "url": "http://www.reddit.com/r/poland/comments/1zgg3c/how_are_people_in_poland_reacting_to_the/",
+        "author_flair_text": null, "title": "How are people in Poland reacting to
+        the Crimea/Russia situation?", "created_utc": 1393874154.0, "ups": 49, "num_comments":
+        54, "visited": false, "num_reports": null, "distinguished": null}}, {"kind":
+        "t3", "data": {"domain": "self.leagueoflegends", "banned_by": null, "media_embed":
+        {}, "subreddit": "leagueoflegends", "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div
+        class=\"md\"&gt;&lt;p&gt;Join me in 2 hours for the ECC Poland Qualifiers
+        as teams via for a position in the next European stop to be held in Warsaw,
+        Poland.&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;&lt;a href=\"http://www.youtube.com/user/4Deman\"&gt;Videos
+        are now available on Youtube Here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;a
+        href=\"http://www.twitch.tv/qvDeman\"&gt;Stream Link&lt;/a&gt; - Starts 4pm
+        CEST&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;hr/&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;a
+        href=\"http://www.esl.eu/eu/lol/5on5/ecc_poland_crossrealm_q1/rankings\"&gt;Brackets&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;Teams&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Curse
+        EU&lt;/li&gt;\n&lt;li&gt;FLYtoHigh&lt;/li&gt;\n&lt;li&gt;myRCorsair&lt;/li&gt;\n&lt;li&gt;SK
+        Gaming&lt;/li&gt;\n&lt;li&gt;Moscow 5&lt;/li&gt;\n&lt;li&gt;neXt.InWin&lt;/li&gt;\n&lt;li&gt;FeW&lt;/li&gt;\n&lt;li&gt;CLG.eu&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;&lt;strong&gt;Caster&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Deman
+        - &lt;a href=\"http://www.twitter.com/qvDeman\"&gt;Twitter&lt;/a&gt;, &lt;a
+        href=\"http://www.facebook.com/DemanHD\"&gt;FaceBook&lt;/a&gt;, &lt;a href=\"http://www.youtube.com/user/4Deman\"&gt;YouTube&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!--
+        SC_ON --&gt;", "selftext": "Join me in 2 hours for the ECC Poland Qualifiers
+        as teams via for a position in the next European stop to be held in Warsaw,
+        Poland.\n\n*****\n\n**[Videos are now available on Youtube Here](http://www.youtube.com/user/4Deman)**\n\n*****\n\n*
+        [Stream Link](http://www.twitch.tv/qvDeman) - Starts 4pm CEST\n\n*****\n\n*
+        [Brackets](http://www.esl.eu/eu/lol/5on5/ecc_poland_crossrealm_q1/rankings)\n\n*****\n**Teams**\n\n*
+        Curse EU\n* FLYtoHigh\n* myRCorsair\n* SK Gaming\n* Moscow 5\n* neXt.InWin\n*
+        FeW\n* CLG.eu\n\n*****\n**Caster**\n\n* Deman - [Twitter](http://www.twitter.com/qvDeman),
+        [FaceBook](http://www.facebook.com/DemanHD), [YouTube](http://www.youtube.com/user/4Deman)\n\n\n",
+        "likes": null, "secure_media": null, "link_flair_text": null, "id": "vit7r",
+        "gilded": 0, "secure_media_embed": {}, "clicked": false, "stickied": false,
+        "author": "qvDeman", "media": null, "score": 173, "approved_by": null, "over_18":
+        false, "hidden": false, "thumbnail": "self", "subreddit_id": "t5_2rfxx", "edited":
+        1340576121.0, "link_flair_css_class": null, "author_flair_css_class": "riot",
+        "downs": 99, "saved": false, "is_self": true, "permalink": "/r/leagueoflegends/comments/vit7r/ecc_poland_qualifiers_in_2_hours_m5_clg_sk_crs/",
+        "name": "t3_vit7r", "created": 1340543650.0, "url": "http://www.reddit.com/r/leagueoflegends/comments/vit7r/ecc_poland_qualifiers_in_2_hours_m5_clg_sk_crs/",
+        "author_flair_text": null, "title": "ECC Poland Qualifiers in 2 hours (M5,
+        CLG, SK, Crs etc) with Deman", "created_utc": 1340540050.0, "ups": 272, "num_comments":
+        231, "visited": false, "num_reports": null, "distinguished": null}}, {"kind":
+        "t3", "data": {"domain": "self.poland", "banned_by": null, "media_embed":
+        {}, "subreddit": "poland", "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div
+        class=\"md\"&gt;&lt;p&gt;I&amp;#39;m studying abroad in Poland (natively Swedish)
+        and right now, the loneliness is seriously starting to get to me. I don&amp;#39;t
+        like the people in my class, they&amp;#39;re rather boring, almost all of
+        them. I just want to meet some nice, Polish friends. Problem is, I don&amp;#39;t
+        know Polish, I don&amp;#39;t party, I don&amp;#39;t drink, and I&amp;#39;m
+        so busy with studying that I don&amp;#39;t have much time off. I like stuff
+        like gaming, anime and nerd things, but it&amp;#39;s so hard to find people
+        who like that. What do I do? ;_;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "selftext": "I''m studying abroad in Poland (natively Swedish) and right now,
+        the loneliness is seriously starting to get to me. I don''t like the people
+        in my class, they''re rather boring, almost all of them. I just want to meet
+        some nice, Polish friends. Problem is, I don''t know Polish, I don''t party,
+        I don''t drink, and I''m so busy with studying that I don''t have much time
+        off. I like stuff like gaming, anime and nerd things, but it''s so hard to
+        find people who like that. What do I do? ;_;", "likes": null, "secure_media":
+        null, "link_flair_text": null, "id": "mlplr", "gilded": 0, "secure_media_embed":
+        {}, "clicked": false, "stickied": false, "author": "Rigurun", "media": null,
+        "score": 21, "approved_by": null, "over_18": false, "hidden": false, "thumbnail":
+        "", "subreddit_id": "t5_2qkmn", "edited": true, "link_flair_css_class": null,
+        "author_flair_css_class": null, "downs": 3, "saved": false, "is_self": true,
+        "permalink": "/r/poland/comments/mlplr/alone_in_poland/", "name": "t3_mlplr",
+        "created": 1321986319.0, "url": "http://www.reddit.com/r/poland/comments/mlplr/alone_in_poland/",
+        "author_flair_text": null, "title": "Alone in Poland", "created_utc": 1321986319.0,
+        "ups": 24, "num_comments": 75, "visited": false, "num_reports": null, "distinguished":
+        null}}], "after": "t3_mlplr", "before": null}}'
+    http_version: 
+  recorded_at: Sun, 20 Apr 2014 16:18:33 GMT
+recorded_with: VCR 2.9.0

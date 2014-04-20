@@ -1,0 +1,268 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.reddit.com/subreddits/new.json?limit=10&q=poland
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json; charset=UTF-8
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      X-Xss-Protection:
+      - 1; mode=block
+      Access-Control-Allow-Origin:
+      - "*"
+      Server:
+      - "'; DROP TABLE servertypes; --"
+      Vary:
+      - accept-encoding
+      Date:
+      - Sun, 20 Apr 2014 12:48:13 GMT
+      Content-Length:
+      - '20658'
+      Connection:
+      - keep-alive
+    body:
+      encoding: ASCII-8BIT
+      string: '{"kind": "Listing", "data": {"modhash": "", "children": [{"kind": "t5",
+        "data": {"submit_text_html": null, "user_is_banned": null, "id": "31fi4",
+        "submit_text": "", "display_name": "LGBTbookstore", "header_img": null, "description_html":
+        "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Welcome to the LGBTbookstore.  We
+        are a space for readers to share their thoughts and engage in discussion about
+        LGBT books.  As well, we encourage authors to promote their LGBT books too.  &lt;/p&gt;\n&lt;/div&gt;&lt;!--
+        SC_ON --&gt;", "title": "An online space for all your lesbian, gay, bisexual,
+        and transgender reading needs.", "over18": false, "user_is_moderator": null,
+        "header_title": null, "description": "Welcome to the LGBTbookstore.  We are
+        a space for readers to share their thoughts and engage in discussion about
+        LGBT books.  As well, we encourage authors to promote their LGBT books too.  ",
+        "submit_link_label": null, "accounts_active": null, "public_traffic": false,
+        "header_size": null, "subscribers": 1, "submit_text_label": null, "name":
+        "t5_31fi4", "created": 1398026244.0, "url": "/r/LGBTbookstore/", "created_utc":
+        1397997444.0, "user_is_contributor": null, "public_description": "We are online
+        space here to promote LGBT authors and books to everyone.  As well, we want
+        to encourage readers to share what they''re presently reading and their top
+        picks.  \n\nLet''s create a community that will positively enhance the lives
+        of authors and reads of LGBT books.", "comment_score_hide_mins": 0, "subreddit_type":
+        "public", "submission_type": "any", "user_is_subscriber": null}}, {"kind":
+        "t5", "data": {"submit_text_html": null, "user_is_banned": null, "id": "31fi3",
+        "submit_text": "", "display_name": "rubberdomekeyboards", "header_img": null,
+        "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;a
+        place to discuss rubber dome keyboards&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON
+        --&gt;", "title": "rubber dome keyboards", "over18": false, "user_is_moderator":
+        null, "header_title": null, "description": "a place to discuss rubber dome
+        keyboards", "submit_link_label": null, "accounts_active": null, "public_traffic":
+        false, "header_size": null, "subscribers": 1, "submit_text_label": null, "name":
+        "t5_31fi3", "created": 1398026213.0, "url": "/r/rubberdomekeyboards/", "created_utc":
+        1397997413.0, "user_is_contributor": null, "public_description": "a place
+        to discuss rubber dome keyboards", "comment_score_hide_mins": 0, "subreddit_type":
+        "public", "submission_type": "any", "user_is_subscriber": null}}, {"kind":
+        "t5", "data": {"submit_text_html": null, "user_is_banned": null, "id": "31fi2",
+        "submit_text": "", "display_name": "GoldenRealmStage", "header_img": null,
+        "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Welcome
+        to the subreddit for the Golden Realm Minecraft Server.&lt;/p&gt;\n\n&lt;p&gt;Please
+        message snarfattack if you would like to be added to the server whitelist.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Donate:&lt;/strong&gt;
+        &lt;a href=\"http://www.reddit.com/r/GoldenRealm/wiki/donate\"&gt;Donation
+        Information&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Status: 5 months
+        - October 2014&lt;/strong&gt;  (This represents how long the server can run
+        at the current rate of $59/ month with no future donations).&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Golden
+        Realm Information:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;a
+        href=\"http://www.reddit.com/r/GoldenRealm/wiki/index\"&gt;GR Wiki&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Minecraft
+        Server Address:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Goldenrealm.info&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Golden
+        Realm Website&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=\"http://goldenrealm.info/\"&gt;Golden
+        Realm Website&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Mumble
+        Server Address:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;mumble.goldenrealm.info:64738&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Dynmap:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;a
+        href=\"http://goldenrealm.info/dynmap.html\"&gt;http://goldenrealm.info/dynmap.html&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Server
+        Stats:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=\"http://goldenrealm.info/stats.html\"&gt;http://goldenrealm.info/stats.html&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Member
+        List:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=\"https://docs.google.com/spreadsheet/ccc?key=0Ak2_DDnj8aU-dHVRcHlLZUl1eFo5cG5CVENWSnVuN2c\"&gt;Golden
+        Realm Member List&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Town
+        Plot List:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=\"https://docs.google.com/spreadsheet/ccc?key=0Ak2_DDnj8aU-dFA1X0dSVURXdnkzazlEc3BUcl9LZmc#gid=0\"&gt;Town
+        Plot List&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Videos:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;p&gt;&lt;a
+        href=\"https://docs.google.com/spreadsheet/ccc?key=0AuovTQeLtY9ZdDMyQ2dub2xOdU1NM09xSmZzcDBBemc&amp;amp;usp=sh%0Aaring\"&gt;Taterswag
+        Streaming&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;a href=\"http://www.youtube.com/user/Inflectionpoints?feature=watch\"&gt;Shadow&amp;#39;s
+        Videos&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.youtube.com/user/MrCodingTom/videos\"&gt;CodingTom&amp;#39;s
+        Videos&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Admins:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;p&gt;Sawemoff
+        (Owner)&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Tyrrany&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Snarfattack
+        (In charge of GR)&lt;/p&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Mods:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;p&gt;Ibilisi&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Kastina&lt;/p&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Rules:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;p&gt;Don&amp;#39;t
+        Grief&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Don&amp;#39;t Be a Dick to
+        People&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Use Common Sense&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Log
+        on once every two weeks to maintain your whitelist spot&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;No
+        Private Mob Farms / Grinders (Animal or Monsters) - This is only for large
+        farms (10+ animals). Please use the community farms.&lt;/p&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/div&gt;&lt;!--
+        SC_ON --&gt;", "title": "Golden Realm Minecraft Server", "over18": false,
+        "user_is_moderator": null, "header_title": null, "description": "Welcome to
+        the subreddit for the Golden Realm Minecraft Server.\n\nPlease message snarfattack
+        if you would like to be added to the server whitelist.\n\n**Donate:** [Donation
+        Information](http://www.reddit.com/r/GoldenRealm/wiki/donate)\n\n**Status:
+        5 months - October 2014**  (This represents how long the server can run at
+        the current rate of $59/ month with no future donations).\n\n**Golden Realm
+        Information:**\n\n* [GR Wiki](http://www.reddit.com/r/GoldenRealm/wiki/index)\n\n**Minecraft
+        Server Address:**\n\n* Goldenrealm.info\n\n**Golden Realm Website**\n\n* [Golden
+        Realm Website](http://goldenrealm.info/)\n\n**Mumble Server Address:**\n\n*
+        mumble.goldenrealm.info:64738\n\n**Dynmap:**\n\n* http://goldenrealm.info/dynmap.html\n\n**Server
+        Stats:**\n\n* http://goldenrealm.info/stats.html\n\n**Member List:**\n\n*
+        [Golden Realm Member List](https://docs.google.com/spreadsheet/ccc?key=0Ak2_DDnj8aU-dHVRcHlLZUl1eFo5cG5CVENWSnVuN2c)\n\n**Town
+        Plot List:**\n\n* [Town Plot List](https://docs.google.com/spreadsheet/ccc?key=0Ak2_DDnj8aU-dFA1X0dSVURXdnkzazlEc3BUcl9LZmc#gid=0)\n\n**Videos:**\n\n*
+        [Taterswag Streaming](https://docs.google.com/spreadsheet/ccc?key=0AuovTQeLtY9ZdDMyQ2dub2xOdU1NM09xSmZzcDBBemc&amp;usp=sh\naring)\n\n*
+        [Shadow''s Videos](http://www.youtube.com/user/Inflectionpoints?feature=watch)\n\n*
+        [CodingTom''s Videos](https://www.youtube.com/user/MrCodingTom/videos)\n\n**Admins:**\n\n*
+        Sawemoff (Owner)\n\n* Tyrrany\n\n* Snarfattack (In charge of GR)\n\n**Mods:**\n\n*
+        Ibilisi\n\n* Kastina\n\n**Rules:**\n\n* Don''t Grief\n\n* Don''t Be a Dick
+        to People\n\n* Use Common Sense\n\n* Log on once every two weeks to maintain
+        your whitelist spot\n\n* No Private Mob Farms / Grinders (Animal or Monsters)
+        - This is only for large farms (10+ animals). Please use the community farms.",
+        "submit_link_label": null, "accounts_active": null, "public_traffic": false,
+        "header_size": null, "subscribers": 1, "submit_text_label": null, "name":
+        "t5_31fi2", "created": 1398025986.0, "url": "/r/GoldenRealmStage/", "created_utc":
+        1397997186.0, "user_is_contributor": null, "public_description": "This is
+        the subreddit for the Golden Realm Minecraft Server.", "comment_score_hide_mins":
+        0, "subreddit_type": "restricted", "submission_type": "any", "user_is_subscriber":
+        null}}, {"kind": "t5", "data": {"submit_text_html": "&lt;!-- SC_OFF --&gt;&lt;div
+        class=\"md\"&gt;&lt;p&gt;Strong&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "user_is_banned": null, "id": "31fi1", "submit_text": "Strong", "display_name":
+        "Strongbeans", "header_img": null, "description_html": "&lt;!-- SC_OFF --&gt;&lt;div
+        class=\"md\"&gt;&lt;p&gt;Strong Beans&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON
+        --&gt;", "title": "Strong", "over18": false, "user_is_moderator": null, "header_title":
+        null, "description": "Strong Beans", "submit_link_label": null, "accounts_active":
+        null, "public_traffic": false, "header_size": null, "subscribers": 1, "submit_text_label":
+        null, "name": "t5_31fi1", "created": 1398025873.0, "url": "/r/Strongbeans/",
+        "created_utc": 1397997073.0, "user_is_contributor": null, "public_description":
+        "Beans", "comment_score_hide_mins": 0, "subreddit_type": "public", "submission_type":
+        "any", "user_is_subscriber": null}}, {"kind": "t5", "data": {"submit_text_html":
+        "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Submit photos of actual
+        government incompetitence in action. No memes, just photos and an explanation
+        of shit governments do.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "user_is_banned":
+        null, "id": "31fi0", "submit_text": "Submit photos of actual government incompetitence
+        in action. No memes, just photos and an explanation of shit governments do.",
+        "display_name": "Shitgovernmentsdo", "header_img": null, "description_html":
+        "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Ever see government
+        waste and roll your eyes? Well, now you can point a finger at it and show
+        the world how your tax dollars are being spent.&lt;/p&gt;\n\n&lt;p&gt;Whether
+        you are waiting in a line at the motor vehicle office or a NIH line, to pay
+        taxes or vote, snap a picture with your phone and tell us you story of government
+        innefficiency.&lt;/p&gt;\n\n&lt;p&gt;No memes, we want actual evidence of
+        the spectacular impotetence in oir daily lives. All countries and political
+        systems are welcome here. Democracies, socialists, communists, dictatorships,
+        you are all welcome to bring us your photos of your government in inaction!&lt;/p&gt;\n&lt;/div&gt;&lt;!--
+        SC_ON --&gt;", "title": "Stories with pictures of incompetent and unaccountable
+        government.", "over18": false, "user_is_moderator": null, "header_title":
+        null, "description": "Ever see government waste and roll your eyes? Well,
+        now you can point a finger at it and show the world how your tax dollars are
+        being spent.\n\nWhether you are waiting in a line at the motor vehicle office
+        or a NIH line, to pay taxes or vote, snap a picture with your phone and tell
+        us you story of government innefficiency.\n\nNo memes, we want actual evidence
+        of the spectacular impotetence in oir daily lives. All countries and political
+        systems are welcome here. Democracies, socialists, communists, dictatorships,
+        you are all welcome to bring us your photos of your government in inaction!",
+        "submit_link_label": "Submit a picture of government shit", "accounts_active":
+        null, "public_traffic": false, "header_size": null, "subscribers": 1, "submit_text_label":
+        "Only submit pictures. Text only is boring.", "name": "t5_31fi0", "created":
+        1398025166.0, "url": "/r/Shitgovernmentsdo/", "created_utc": 1397996366.0,
+        "user_is_contributor": null, "public_description": "Tell stories with pictures
+        of how incompetent and unaccountable government is to their rulers, the people.
+        Show how they basically do what they want, wasting our money in the process.",
+        "comment_score_hide_mins": 0, "subreddit_type": "public", "submission_type":
+        "any", "user_is_subscriber": null}}, {"kind": "t5", "data": {"submit_text_html":
+        "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Format is crucial for
+        the bot to work. Affix the following tags - all other posts will be hidden:&lt;/p&gt;\n\n&lt;p&gt;[META]
+        for threads to be ignored by our bot and meant as informational or suggestive
+        threads.\n[SCAMMER] for a thread about suspicious users.&lt;/p&gt;\n\n&lt;p&gt;[SCAMMER]
+        thread titles must have the following format:&lt;/p&gt;\n\n&lt;p&gt;&amp;quot;[SCAMMER]
+        username&amp;quot;\nSample title: [SCAMMER] scambot&lt;/p&gt;\n\n&lt;p&gt;Threads
+        must have the following format:&lt;/p&gt;\n\n&lt;p&gt;[Proof: Proof of accusation
+        thru (links)]\n[1 blank line]\n[Comments: Your optional commentary]&lt;/p&gt;\n\n&lt;p&gt;Example:&lt;/p&gt;\n\n&lt;p&gt;(link
+        to a deleted thread)\n(link to a comment on shady sub-reddit)&lt;/p&gt;\n\n&lt;p&gt;This
+        person took my money in the exchange (referenced in the first link) and than
+        shot up (see the second link) with it instead of sending me what he promised
+        in first link.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "user_is_banned":
+        null, "id": "31fhz", "submit_text": "Format is crucial for the bot to work.
+        Affix the following tags - all other posts will be hidden:\n\n[META] for threads
+        to be ignored by our bot and meant as informational or suggestive threads.\n[SCAMMER]
+        for a thread about suspicious users.\n\n[SCAMMER] thread titles must have
+        the following format:\n\n\"[SCAMMER] username\"\nSample title: [SCAMMER] scambot\n\nThreads
+        must have the following format:\n\n[Proof: Proof of accusation thru (links)]\n[1
+        blank line]\n[Comments: Your optional commentary]\n\nExample:\n\n(link to
+        a deleted thread)\n(link to a comment on shady sub-reddit)\n\nThis person
+        took my money in the exchange (referenced in the first link) and than shot
+        up (see the second link) with it instead of sending me what he promised in
+        first link.", "display_name": "ScamBotList", "header_img": null, "description_html":
+        null, "title": "Scam Bot''s List", "over18": false, "user_is_moderator": null,
+        "header_title": null, "description": "", "submit_link_label": null, "accounts_active":
+        null, "public_traffic": false, "header_size": null, "subscribers": 1, "submit_text_label":
+        "Submit Scam Warning", "name": "t5_31fhz", "created": 1398025141.0, "url":
+        "/r/ScamBotList/", "created_utc": 1397996341.0, "user_is_contributor": null,
+        "public_description": "A sub dedicated to preventing scams on commodity exchanges
+        across reddit.", "comment_score_hide_mins": 0, "subreddit_type": "public",
+        "submission_type": "self", "user_is_subscriber": null}}, {"kind": "t5", "data":
+        {"submit_text_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Keep
+        it Dancy and mark your nsfw posts or you will be smothered with a pair of
+        novelty astronaut boxers.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;", "user_is_banned":
+        null, "id": "31fhy", "submit_text": "Keep it Dancy and mark your nsfw posts
+        or you will be smothered with a pair of novelty astronaut boxers.", "display_name":
+        "HughDancy", "header_img": null, "description_html": null, "title": "HUGH
+        DANCY - YOU SO FANCY", "over18": false, "user_is_moderator": null, "header_title":
+        null, "description": "", "submit_link_label": null, "accounts_active": null,
+        "public_traffic": false, "header_size": null, "subscribers": 1, "submit_text_label":
+        null, "name": "t5_31fhy", "created": 1398024937.0, "url": "/r/HughDancy/",
+        "created_utc": 1397996137.0, "user_is_contributor": null, "public_description":
+        "There wasn''t a Hugh Dancy subreddit - *but now there is!*", "comment_score_hide_mins":
+        0, "subreddit_type": "public", "submission_type": "any", "user_is_subscriber":
+        null}}, {"kind": "t5", "data": {"submit_text_html": "&lt;!-- SC_OFF --&gt;&lt;div
+        class=\"md\"&gt;&lt;p&gt;When posting, include the username and the behavior
+        displayed in the title.&lt;/p&gt;\n\n&lt;p&gt;Then quote the body of the comment
+        or submission in question.  If the rationale for your decision is not abundantly
+        obvious, please include why you think this post is a troll.&lt;/p&gt;\n&lt;/div&gt;&lt;!--
+        SC_ON --&gt;", "user_is_banned": null, "id": "31fhx", "submit_text": "When
+        posting, include the username and the behavior displayed in the title.\n\nThen
+        quote the body of the comment or submission in question.  If the rationale
+        for your decision is not abundantly obvious, please include why you think
+        this post is a troll.", "display_name": "trollbusters", "header_img": null,
+        "description_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;This
+        article from Slate describes the phenomenon in some detail, and links to a
+        research paper on the topic.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://www.slate.com/articles/health_and_science/climate_desk/2014/02/internet_troll_personality_study_machiavellianism_narcissism_psychopathy.html\"&gt;http://www.slate.com/articles/health_and_science/climate_desk/2014/02/internet_troll_personality_study_machiavellianism_narcissism_psychopathy.html&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!--
+        SC_ON --&gt;", "title": "TrollBusters - Who you Gonna Call?", "over18": false,
+        "user_is_moderator": null, "header_title": null, "description": "This article
+        from Slate describes the phenomenon in some detail, and links to a research
+        paper on the topic.\n\nhttp://www.slate.com/articles/health_and_science/climate_desk/2014/02/internet_troll_personality_study_machiavellianism_narcissism_psychopathy.html",
+        "submit_link_label": null, "accounts_active": null, "public_traffic": false,
+        "header_size": null, "subscribers": 1, "submit_text_label": null, "name":
+        "t5_31fhx", "created": 1398024672.0, "url": "/r/trollbusters/", "created_utc":
+        1397995872.0, "user_is_contributor": null, "public_description": "Spot, identify,
+        and share trolls.  For my purposes, trolls are identified by their personality
+        characteristics: Narcissistic, Machiavellian, psychopathic, and sadistic.",
+        "comment_score_hide_mins": 0, "subreddit_type": "public", "submission_type":
+        "any", "user_is_subscriber": null}}, {"kind": "t5", "data": {"submit_text_html":
+        "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Sweh&lt;/p&gt;\n&lt;/div&gt;&lt;!--
+        SC_ON --&gt;", "user_is_banned": null, "id": "31fhw", "submit_text": "Sweh",
+        "display_name": "GeishaFanClub", "header_img": null, "description_html": "&lt;!--
+        SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Tvhirifijeueuwiwiieueuwueiriiegrutillppedjekeueueuejehehehvevwbabcwffwhwpqoiwywtrqqwerrtyuippp&lt;/p&gt;\n&lt;/div&gt;&lt;!--
+        SC_ON --&gt;", "title": "A Place for Geishas", "over18": false, "user_is_moderator":
+        null, "header_title": null, "description": "Tvhirifijeueuwiwiieueuwueiriiegrutillppedjekeueueuejehehehvevwbabcwffwhwpqoiwywtrqqwerrtyuippp",
+        "submit_link_label": null, "accounts_active": null, "public_traffic": false,
+        "header_size": null, "subscribers": 1, "submit_text_label": null, "name":
+        "t5_31fhw", "created": 1398024596.0, "url": "/r/GeishaFanClub/", "created_utc":
+        1397995796.0, "user_is_contributor": null, "public_description": "Haisnhsodeuisbekduwhsykehdikdhsjdusydbejddnduxyajavsnfbeoixhxoshdlsbdkxhdjdidjsusjsysbgdjxisssshssjsgsjsobsdodkjdnsksosnejxicjsppskzclviiebejddjjxuensshaklsbvducnsjagghandvdubw
+        ayeinehwhwkjsjwwhatthefuckateyoutalkknganouy", "comment_score_hide_mins":
+        0, "subreddit_type": "public", "submission_type": "any", "user_is_subscriber":
+        null}}, {"kind": "t5", "data": {"submit_text_html": null, "user_is_banned":
+        null, "id": "31fhv", "submit_text": "", "display_name": "nudeceleb", "header_img":
+        null, "description_html": null, "title": "NudeCelebs", "over18": false, "user_is_moderator":
+        null, "header_title": null, "description": "", "submit_link_label": null,
+        "accounts_active": null, "public_traffic": false, "header_size": null, "subscribers":
+        1, "submit_text_label": null, "name": "t5_31fhv", "created": 1398023900.0,
+        "url": "/r/nudeceleb/", "created_utc": 1397995100.0, "user_is_contributor":
+        null, "public_description": "NudeCelebs", "comment_score_hide_mins": 0, "subreddit_type":
+        "public", "submission_type": "any", "user_is_subscriber": null}}], "after":
+        "t5_31fhv", "before": null}}'
+    http_version: 
+  recorded_at: Sun, 20 Apr 2014 12:48:14 GMT
+recorded_with: VCR 2.9.0

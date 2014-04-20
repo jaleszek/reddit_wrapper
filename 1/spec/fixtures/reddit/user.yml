@@ -1,0 +1,40 @@
+---
+http_interactions:
+- request:
+    method: post
+    uri: http://www.reddit.com/api/login/jampolak
+    body:
+      encoding: US-ASCII
+      string: user=jampolak&passwd=leszek1&api_type=json
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json; charset=UTF-8
+      Content-Length:
+      - '182'
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Content-Type-Options:
+      - nosniff
+      X-Xss-Protection:
+      - 1; mode=block
+      Set-Cookie:
+      - reddit_session=27169112%2C2014-04-18T12%3A48%3A00%2C8190267df3c3a6b31aa9f43e7c46cc5d8773c90e;
+        Domain=reddit.com; Path=/; HttpOnly
+      Server:
+      - "'; DROP TABLE servertypes; --"
+      Date:
+      - Fri, 18 Apr 2014 19:48:00 GMT
+      Connection:
+      - keep-alive
+    body:
+      encoding: ASCII-8BIT
+      string: '{"json": {"errors": [], "data": {"modhash": "t3ria83aqc4c482869de8ec459d700710ec026f6d989a0134d",
+        "cookie": "27169112,2014-04-18T12:48:00,8190267df3c3a6b31aa9f43e7c46cc5d8773c90e"}}}'
+    http_version: 
+  recorded_at: Fri, 18 Apr 2014 19:48:01 GMT
+recorded_with: VCR 2.9.0
